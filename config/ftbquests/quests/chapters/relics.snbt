@@ -143,7 +143,7 @@
 		{
 			height: 5.0d
 			image: "kurisagawa:textures/relics/building_frame.png"
-			order: 2
+			order: 3
 			rotation: 90.0d
 			width: 4.0d
 			x: 2.0d
@@ -227,6 +227,33 @@
 			rotation: 0.0d
 			width: 100.0d
 			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/overworld_title.png"
+			order: 4
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/the_nether_title.png"
+			order: 4
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/the_end_title.png"
+			order: 4
+			rotation: 0.0d
+			width: 4.0d
+			x: 2.5d
 			y: 0.0d
 		}
 	]

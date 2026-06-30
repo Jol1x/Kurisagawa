@@ -19,7 +19,7 @@
 		}
 		{
 			height: 5.0d
-			image: "travelerstitles:textures/font/twilight_forest.png"
+			image: "kurisagawa:textures/questpics/twilight_forest_title.png"
 			order: 1
 			rotation: 0.0d
 			width: 15.0d
