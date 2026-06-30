@@ -1,0 +1,6 @@
+type = custom_gui_screens
+
+overridden_screens {
+  net.minecraft.client.gui.screens.TitleScreen = kurisagawa
+}
+

@@ -1,0 +1,341 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses"
+	group: ""
+	id: "7FC5FDE294AD616C"
+	images: [
+		{
+			height: 10.0d
+			image: "cataclysm:textures/entity/leviathan/dimensional_rift/dimensional_rift_idle4.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 13.5d
+			y: -10.5d
+		}
+		{
+			height: 10.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			order: 1
+			rotation: 0.0d
+			width: 10.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 15.0d
+			image: "cataclysm:textures/entity/leviathan/portal/abyss_portal_idle_3.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			height: 4.0d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			order: 2
+			rotation: 0.0d
+			width: 4.0d
+			x: 13.5d
+			y: -10.5d
+		}
+		{
+			height: 7.0d
+			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
+			order: 1
+			rotation: 0.0d
+			width: 7.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 4.6d
+			image: "alexsmobs:textures/entity/farseer/portal_3.png"
+			order: 3
+			rotation: 0.0d
+			width: 4.6d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 13.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 13.0d
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			height: 10.0d
+			image: "cataclysm:textures/entity/leviathan/dimensional_rift/abyss_black_hole_idle4.png"
+			order: 1
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.0d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "travelerstitles:textures/font/twilight_forest.png"
+			order: 4
+			rotation: 0.0d
+			width: 9.0d
+			x: 1.0d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:textures/gui/title/minceraft.png"
+			order: 4
+			rotation: 0.0d
+			width: 9.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 2.5d
+			image: "kurisagawa:textures/questpics/cataclysm.png"
+			order: 2
+			rotation: 0.0d
+			width: 7.0d
+			x: 13.5d
+			y: -10.5d
+		}
+	]
+	order_index: 1
+	quest_links: [
+		{
+			id: "20F8B236203ABBA0"
+			linked_quest: "4DA0725E089D7C91"
+			x: 2.5d
+			y: -14.5d
+		}
+		{
+			id: "77FD781D4DF27F02"
+			linked_quest: "3531B28F14CF72A2"
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			id: "1C4F89C70B244D78"
+			linked_quest: "04440BB2EFFD6DD9"
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			id: "2E14E47A8B5463FA"
+			linked_quest: "7026E46FD8B3A81D"
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			id: "5D51FFB965B41B14"
+			linked_quest: "3DCF26B53AE1EBF6"
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			id: "0CA99FE1205B8C31"
+			linked_quest: "688C911ECFB2F134"
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			id: "04971B03C61B11EA"
+			linked_quest: "31BB7EB95CE73C1A"
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			id: "6EF702F51491D960"
+			linked_quest: "6FD41DF7704466A4"
+			x: 4.5d
+			y: -12.5d
+		}
+		{
+			id: "3A1BDB35C0DE951C"
+			linked_quest: "0107D516E038E0DB"
+			x: 0.0d
+			y: -14.5d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "cataclysm:abyss_eye"
+			}
+			icon_scale: 2.0d
+			id: "7F455BBF87F3BD33"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "6B33EEEF54B5FBEA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.5d
+			y: -14.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:storm_eye"
+			}
+			icon_scale: 2.0d
+			id: "1EDBD93EE74D637C"
+			tasks: [{
+				entity: "cataclysm:scylla"
+				id: "2F8620C7D00056F4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.5d
+			y: -13.5d
+		}
+		{
+			icon: {
+				id: "cataclysm:cursed_eye"
+			}
+			icon_scale: 2.0d
+			id: "5FEB4AD8F9B7CBD4"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				id: "1657A1B0147F856C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 16.0d
+			y: -13.7d
+		}
+		{
+			icon: {
+				id: "cataclysm:void_eye"
+			}
+			icon_scale: 2.0d
+			id: "152140E736ADBE8A"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "4A42A9BDB958C5DF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 17.0d
+			y: -11.5d
+		}
+		{
+			icon: {
+				id: "cataclysm:desert_eye"
+			}
+			icon_scale: 2.0d
+			id: "4F80623F9A8691F9"
+			tasks: [{
+				entity: "cataclysm:ignited_revenant"
+				id: "4F1705047FEE5459"
+				type: "kill"
+				value: 1L
+			}]
+			x: 16.0d
+			y: -8.5d
+		}
+		{
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			icon_scale: 2.0d
+			id: "68E77E55760E0870"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "23622822D1AD6845"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.5d
+			y: -11.5d
+		}
+		{
+			icon: {
+				id: "cataclysm:monstrous_eye"
+			}
+			icon_scale: 2.0d
+			id: "086DDAF1947B5F1B"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "3D8D4C69A0344780"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.5d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:mech_eye"
+			}
+			icon_scale: 2.0d
+			id: "0FCD60632B24C658"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "1CA8EBB9BF240A08"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.5d
+			y: -7.5d
+		}
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:ender_dragon"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "4B81F8468BCDBDB8"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2E935674E9096338"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:wither"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "29A369FFD6B78E9D"
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "08CDF6F5DCAE2BFE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:warden"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "7C18F2934C225FAD"
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "2EB59439223A36EF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

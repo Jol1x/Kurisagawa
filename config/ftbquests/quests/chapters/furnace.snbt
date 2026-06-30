@@ -1,0 +1,212 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "furnace"
+	group: "3836A4B64A3AC80A"
+	icon: {
+		id: "ironfurnaces:crystal_furnace"
+	}
+	id: "314BDC5AF58A550F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "736C56D696CA33FB"
+			shape: "circle"
+			tasks: [{
+				id: "654A58EA13A33604"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["736C56D696CA33FB"]
+			id: "5450D92743CFB57B"
+			shape: "hexagon"
+			tasks: [{
+				id: "446885592DA91D4D"
+				item: { count: 1, id: "ironfurnaces:upgrade_copper" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["736C56D696CA33FB"]
+			id: "7711877D6484E61C"
+			shape: "hexagon"
+			tasks: [{
+				id: "754C6136ACD6E580"
+				item: { count: 1, id: "ironfurnaces:upgrade_iron" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5450D92743CFB57B"]
+			id: "194DE128DB7F7146"
+			tasks: [{
+				id: "2C6E7AB882916013"
+				item: { count: 1, id: "ironfurnaces:upgrade_iron2" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"194DE128DB7F7146"
+				"7711877D6484E61C"
+			]
+			id: "1667C1ACE595DF7B"
+			tasks: [{
+				id: "2A778B22B2A17B7C"
+				item: { count: 1, id: "ironfurnaces:upgrade_gold" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1667C1ACE595DF7B"]
+			id: "08A90E767982C699"
+			tasks: [{
+				id: "5E5BBB528CEEEEDE"
+				item: { count: 1, id: "ironfurnaces:upgrade_diamond" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08A90E767982C699"]
+			id: "3D4011092BD0F111"
+			tasks: [{
+				id: "29F2385EB3326832"
+				item: { count: 1, id: "ironfurnaces:upgrade_emerald" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08A90E767982C699"]
+			id: "2BE7ED96CF7ECC85"
+			tasks: [{
+				id: "5883CB13856312C1"
+				item: { count: 1, id: "ironfurnaces:upgrade_crystal" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D4011092BD0F111"]
+			id: "46DA392551E3BC9C"
+			tasks: [{
+				id: "2AA99B5DEDEBFBA1"
+				item: { count: 1, id: "ironfurnaces:upgrade_obsidian" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["46DA392551E3BC9C"]
+			id: "330D538F24B49747"
+			tasks: [{
+				id: "4A4AB5F99D7E3D98"
+				item: { count: 1, id: "ironfurnaces:upgrade_netherite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "564B28DF236F0262"
+			tasks: [{
+				id: "69D6F5C574DE6584"
+				item: { count: 1, id: "ironfurnaces:augment_smoking" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "432371A5F075E28B"
+			tasks: [{
+				id: "53192B1F9B644AFA"
+				item: { count: 1, id: "ironfurnaces:augment_blasting" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "67BFFB0E9CB6F60D"
+			tasks: [{
+				id: "48BBC6D7A086C8C3"
+				item: { count: 1, id: "ironfurnaces:augment_generator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "4E0A2266A063989F"
+			tasks: [{
+				id: "4519A5C28CF72398"
+				item: { count: 1, id: "ironfurnaces:augment_factory" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "7D28A38A6255F2A4"
+			tasks: [{
+				id: "5DCBA08ECB233513"
+				item: { count: 1, id: "ironfurnaces:augment_speed" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["43D2BBAD2BFE7979"]
+			id: "3399D3E6C8A15B43"
+			tasks: [{
+				id: "40A5D73EF0DEB0E4"
+				item: { count: 1, id: "ironfurnaces:augment_fuel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["736C56D696CA33FB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "relics:textures/gui/description/ability/upgrade_button_warning.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "43D2BBAD2BFE7979"
+			shape: "gear"
+			tasks: [{
+				id: "1E6737B917304854"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}
