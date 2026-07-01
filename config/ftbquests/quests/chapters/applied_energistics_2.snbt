@@ -2293,28 +2293,6 @@
 		}
 		{
 			dependencies: ["2893F483C10293E6"]
-			hide_details_until_startable: true
-			hide_until_deps_complete: true
-			hide_until_deps_visible: true
-			id: "1F14F85C653800C3"
-			rewards: [{
-				id: "2188C84BF4CFCDBD"
-				item: {
-					count: 1
-					id: "ae2:creative_energy_cell"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4713CD000945646C"
-				item: { count: 1, id: "ae2:guide" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -1.5d
-		}
-		{
-			dependencies: ["2893F483C10293E6"]
 			id: "1342F2BC3D47B182"
 			tasks: [{
 				id: "426C26C2870ADA99"
