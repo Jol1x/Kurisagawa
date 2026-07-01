@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1782750488419
+  last_edited_time = 1782848386722
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   custom_menu_title = Kurisagawa
-  [loading_requirement_container_meta:dc0b5fc8-199b-4b13-b717-c078db43988d-1782750474130] = [groups:][instances:]
+  [loading_requirement_container_meta:3f4c3c28-60ef-4963-975d-643016c602d9-1782848192114] = [groups:][instances:]
 }
 
 menu_background {
