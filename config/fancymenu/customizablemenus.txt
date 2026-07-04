@@ -105,3 +105,12 @@ traben.tconfig.gui.TConfigScreenList {
 net.minecraft.client.gui.screens.options.FontOptionsScreen {
 }
 
+com.terraformersmc.mod_menu.gui.ModsScreen {
+}
+
+org.violetmoon.quark.base.client.config.QuarkConfigHomeScreen {
+}
+
+net.minecraft.client.gui.screens.CreateFlatWorldScreen {
+}
+
