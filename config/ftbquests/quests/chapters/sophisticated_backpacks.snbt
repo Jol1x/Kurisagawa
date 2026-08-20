@@ -1481,24 +1481,5 @@
 			x: 3.0d
 			y: 8.0d
 		}
-		{
-			dependencies: ["0687A90BC5AF46E6"]
-			hide_details_until_startable: true
-			hide_until_deps_complete: true
-			hide_until_deps_visible: true
-			id: "2EEBA1FB868D41CF"
-			rewards: [{
-				id: "2C5B0CE9B99DA738"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "4CD6B11BF312ED1A"
-				item: { count: 1, id: "sophisticatedbackpacks:survival_infinity_upgrade" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -2.0d
-		}
 	]
 }

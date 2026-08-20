@@ -161,18 +161,9 @@
 			image: "kurisagawa:textures/artifacts/artifacts_feet.png"
 			order: 1
 			rotation: 0.0d
-			width: 5.0d
-			x: -2.0d
-			y: 13.5d
-		}
-		{
-			height: 3.0d
-			image: "kurisagawa:textures/artifacts/artifacts_feet.png"
-			order: 1
-			rotation: 0.0d
-			width: 5.0d
-			x: 2.0d
-			y: 13.5d
+			width: 5.5d
+			x: 0.0d
+			y: 14.0d
 		}
 		{
 			height: 3.0d
@@ -200,7 +191,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { lava_stride: { lock: { breaks: 5 }, points: 0, stats: { jump_bonus: { initialQuality: 5 }, recovery_time: { initialQuality: 3 }, speed_penalty: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:strider_shoes" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 1.5d
 			y: 12.0d
 		}
 		{
@@ -216,7 +207,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { devouring: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { }, fertilizer_interval: { }, healing: { }, hunger_restore: { initialQuality: 2 }, restoration_delay: { initialQuality: 7 }, saturation_restore: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:rooted_boots" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: -0.5d
 			y: 12.0d
 		}
 		{
@@ -232,7 +223,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { swim: { lock: { breaks: 5 }, points: 0, stats: { air_loss_reduction: { }, evasion: { }, speed: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:flippers" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: -0.5d
 			y: 11.0d
 		}
 		{
@@ -249,7 +240,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { resistance: { lock: { breaks: 5 }, points: 0, stats: { modifier: { initialQuality: 6 } } }, wall_slide: { lock: { breaks: 0 }, points: 0, stats: { damage_resistance: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:steadfast_spikes" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 12.0d
 		}
 		{
@@ -265,8 +256,8 @@
 				item: { components: { "relics:data": { abilities: { abilities: { snow: { lock: { breaks: 5 }, points: 0, stats: { linger_duration: { initialQuality: 6 }, speed_bonus: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:snowshoes" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 12.0d
+			x: 0.0d
+			y: 13.0d
 		}
 		{
 			id: "4A7AEBEB87CEC274"
@@ -281,7 +272,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { runner: { lock: { breaks: 5 }, points: 0, stats: { jump_charge_bonus: { initialQuality: 5 }, max_speed_bonus: { initialQuality: 8 }, max_step_bonus: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:running_shoes" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: 11.0d
 		}
 		{
@@ -297,7 +288,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { feline_aura: { lock: { breaks: 5 }, points: 0, stats: { crouch_speed_bonus: { initialQuality: 5 }, fall_damage_reduction: { initialQuality: 4 }, radius: { initialQuality: 10 } } }, nine_lives: { lock: { breaks: 5 }, points: 0, stats: { evasion_chance: { initialQuality: 10 }, survival_chance: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:kitty_slippers" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 1.5d
 			y: 11.0d
 		}
 		{
@@ -313,7 +304,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { jump: { lock: { breaks: 5 }, points: 0, stats: { duration: { initialQuality: 4 }, impact_damage_bonus: { initialQuality: 10 }, repel_radius: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:bunny_hoppers" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: 12.0d
 		}
 		{
@@ -329,7 +320,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { water_dash: { lock: { breaks: 5 }, points: 0, stats: { jump_bonus: { }, recovery_time: { initialQuality: 8 }, speed_penalty: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:aqua_dashers" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 11.0d
 		}
 		{

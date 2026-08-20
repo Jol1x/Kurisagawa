@@ -2743,57 +2743,6 @@
 			y: 0.5d
 		}
 		{
-			id: "44150504B82966D6"
-			tasks: [{
-				id: "57A713B75F3D93AB"
-				item: { count: 1, id: "irons_spellbooks:wayward_compass" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["44150504B82966D6"]
-			icon: {
-				components: {
-					"ftbquests:icon": "minecolonies:textures/entity_icon/citizen/undead/studentmale3_a.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "083773BD69029E40"
-			tasks: [{
-				entity: "irons_spellbooks:dead_king"
-				id: "0CB289146D47A58A"
-				type: "kill"
-				value: 1L
-			}]
-			x: 14.0d
-			y: 8.0d
-		}
-		{
-			dependencies: ["083773BD69029E40"]
-			id: "37D5F1F82F33C150"
-			tasks: [{
-				count: 8L
-				id: "065E7175681C926D"
-				item: { count: 1, id: "irons_spellbooks:dead_king_phylactery_shard" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["37D5F1F82F33C150"]
-			id: "4C2F8316420B24A5"
-			tasks: [{
-				id: "5B768BD3E547817C"
-				item: { count: 1, id: "irons_spellbooks:dead_king_phylactery" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 10.0d
-		}
-		{
 			dependencies: [
 				"3A85110725E81CDF"
 				"06F2C42E6408149E"
