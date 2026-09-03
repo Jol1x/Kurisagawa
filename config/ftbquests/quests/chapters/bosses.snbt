@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "bosses"
-	group: ""
+	group: "42C5393CBE97BC30"
 	id: "7FC5FDE294AD616C"
 	images: [
 		{
@@ -102,7 +102,7 @@
 			y: -10.5d
 		}
 	]
-	order_index: 1
+	order_index: 0
 	quest_links: [
 		{
 			id: "20F8B236203ABBA0"

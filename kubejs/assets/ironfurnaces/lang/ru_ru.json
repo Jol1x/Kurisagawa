@@ -44,19 +44,6 @@
     "block.ironfurnaces.million_furnace": "Радужная печь",
     "block.ironfurnaces.heater": "Беспроводной теплопередатчик",
 
-    "_comment": "ATM",
-    "block.ironfurnaces.allthemodium_furnace": "Всемодиевая печь",
-    "block.ironfurnaces.vibranium_furnace": "Вибраниумовая печь",
-    "block.ironfurnaces.unobtainium_furnace": "Унобтаниевая печь",
-    "container.ironfurnaces.allthemodium_furnace": "Всемодиевая печь",
-    "container.ironfurnaces.vibranium_furnace": "Вибраниумовая печь",
-    "container.ironfurnaces.unobtainium_furnace": "Унобтаниевая печь",
-    "item.ironfurnaces.upgrade_allthemodium": "Улучшение: От незеритовой до всемодиевой печи",
-    "item.ironfurnaces.upgrade_vibranium": "Улучшение: От всемодиевой до вибраниумовой печи",
-    "item.ironfurnaces.upgrade_unobtainium": "Улучшение: От вибраниумовой до унобтаниевой печи",
-
-
-
     "_comment": "GUI",
     "container.ironfurnaces.iron_furnace": "Железная печь",
     "container.ironfurnaces.gold_furnace": "Золотая печь",

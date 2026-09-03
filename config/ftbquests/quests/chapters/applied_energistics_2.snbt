@@ -451,6 +451,14 @@
 					type: "xp"
 					xp: 50
 				}
+				{
+					id: "19C3F3A43D315F04"
+					item: {
+						count: 1
+						id: "ae2:creative_energy_cell"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{

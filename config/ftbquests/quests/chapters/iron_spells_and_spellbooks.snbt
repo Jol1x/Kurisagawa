@@ -27,7 +27,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 9.38265306122449d
-			x: 0.5d
+			x: 0.0d
 			y: -3.0d
 		}
 		{
@@ -159,7 +159,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 4.444444444444445d
-			x: 7.5d
+			x: 8.0d
 			y: -6.0d
 		}
 		{
@@ -170,7 +170,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 4.444444444444445d
-			x: -7.5d
+			x: -8.0d
 			y: -6.0d
 		}
 		{
@@ -179,7 +179,7 @@
 			order: 2
 			rotation: 0.0d
 			width: 6.5d
-			x: -11.5d
+			x: -12.5d
 			y: -6.0d
 		}
 		{
@@ -197,7 +197,7 @@
 			order: 2
 			rotation: 0.0d
 			width: 6.5d
-			x: 11.5d
+			x: 12.5d
 			y: -6.0d
 		}
 		{
@@ -207,7 +207,7 @@
 			order: 2
 			rotation: 0.0d
 			width: 6.5d
-			x: 7.5d
+			x: 8.0d
 			y: -6.0d
 		}
 		{
@@ -238,7 +238,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 4.44d
-			x: -11.5d
+			x: -12.5d
 			y: -6.0d
 		}
 		{
@@ -247,7 +247,7 @@
 			order: 2
 			rotation: 0.0d
 			width: 6.5d
-			x: -7.5d
+			x: -8.0d
 			y: -6.0d
 		}
 		{
@@ -268,7 +268,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 4.44d
-			x: 11.5d
+			x: 12.5d
 			y: -6.0d
 		}
 		{
@@ -456,11 +456,11 @@
 			image: "irons_spellbooks:textures/environment/noise_tile.png"
 			rotation: 0.0d
 			width: 100.0d
-			x: -1.5d
-			y: 2.0d
+			x: -2.0d
+			y: 10.0d
 		}
 	]
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -2123,7 +2123,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: 6.5d
+			y: 6.6d
 		}
 		{
 			dependencies: ["5B013A3A37D6902B"]
