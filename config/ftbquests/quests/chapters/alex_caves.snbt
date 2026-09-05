@@ -475,6 +475,14 @@
 			x: -8.5d
 			y: 15.5d
 		}
+		{
+			height: 2.0d
+			image: "kurisagawa:textures/questpics/alex_caves_title.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -1.5d
+			y: 12.0d
+		}
 	]
 	order_index: 1
 	quest_links: [ ]

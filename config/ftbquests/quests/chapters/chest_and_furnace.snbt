@@ -1,13 +1,31 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
-	filename: "furnace"
+	filename: "chest_and_furnace"
 	group: "3836A4B64A3AC80A"
 	icon: {
 		id: "ironchest:crystal_chest"
 	}
 	id: "314BDC5AF58A550F"
-	order_index: 2
+	images: [
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/furnace_title.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/chest_title.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 7.5d
+			y: 0.0d
+		}
+	]
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -210,109 +228,108 @@
 			y: 1.0d
 		}
 		{
-			id: "1A989784E91EF817"
+			id: "6C999D2A290BA3C7"
 			tasks: [{
-				id: "39F282215EE91CD3"
+				id: "4F8772E7DF85980C"
 				item: { count: 1, id: "minecraft:chest" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["6C999D2A290BA3C7"]
-			id: "6FFC00AE84E6BD3D"
+			id: "797EE9AD85A88EF5"
 			shape: "hexagon"
 			tasks: [{
-				id: "5BF75C18AC51FA47"
+				id: "6F83297F83BC0BD9"
 				item: { count: 1, id: "ironchest:wood_to_copper_chest_upgrade" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 0.0d
+			x: 4.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["6C999D2A290BA3C7"]
-			id: "3ABDBB7C1A2DD98A"
+			id: "382D56EA6EBDF9E1"
 			shape: "hexagon"
 			tasks: [{
-				id: "5D8A3BD683EFD175"
+				id: "513DF4CDB4C7C348"
 				item: { count: 1, id: "ironchest:wood_to_iron_chest_upgrade" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 0.0d
+			x: 5.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["797EE9AD85A88EF5"]
-			id: "1B0DD7FB1FA69BB1"
+			id: "34AD015FB00948C3"
 			shape: "hexagon"
 			tasks: [{
-				id: "5B0051A0E14CEDC2"
+				id: "47A016D277DCBCB0"
 				item: { count: 1, id: "ironchest:copper_to_iron_chest_upgrade" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -1.0d
+			x: 4.5d
+			y: -2.0d
 		}
 		{
 			dependencies: [
 				"34AD015FB00948C3"
 				"382D56EA6EBDF9E1"
 			]
-			dependency_requirement: "one_completed"
-			id: "34BABAAE093987BC"
+			id: "54F0AEBA4FA6FE84"
 			shape: "hexagon"
 			tasks: [{
-				id: "525620A1979D82A5"
+				id: "5E4D9F10113C2728"
 				item: { count: 1, id: "ironchest:iron_to_gold_chest_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["54F0AEBA4FA6FE84"]
-			id: "1209B7032965FECD"
-			shape: "hexagon"
-			tasks: [{
-				id: "7310904A9740ED73"
-				item: { count: 1, id: "ironchest:gold_to_diamond_chest_upgrade" }
-				type: "item"
-			}]
-			x: 7.0d
+			x: 5.0d
 			y: -3.0d
 		}
 		{
-			dependencies: ["1EA1E0AE2F3F9C09"]
-			id: "42E153D7A2C8D09A"
+			dependencies: ["54F0AEBA4FA6FE84"]
+			id: "1EA1E0AE2F3F9C09"
 			shape: "hexagon"
 			tasks: [{
-				id: "7D1AB037B13C2E19"
+				id: "76462C828D7CBE7A"
+				item: { count: 1, id: "ironchest:gold_to_diamond_chest_upgrade" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1EA1E0AE2F3F9C09"]
+			id: "562660418D8F78A0"
+			shape: "hexagon"
+			tasks: [{
+				id: "4906E40A61D79FE1"
 				item: { count: 1, id: "ironchest:diamond_to_obsidian_chest_upgrade" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -4.0d
+			x: 4.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["1EA1E0AE2F3F9C09"]
-			id: "4C1E7DB071C8ECEC"
+			id: "433AF404E69B196D"
 			shape: "hexagon"
 			tasks: [{
-				id: "319B44B1F5178973"
+				id: "1CDF5C6FEE3CDC87"
 				item: { count: 1, id: "ironchest:diamond_to_crystal_chest_upgrade" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: -4.0d
+			x: 5.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["6C999D2A290BA3C7"]
-			id: "7DBD249DAD5681ED"
+			id: "487CAC6A4A027289"
 			rewards: [{
 				count: 64
-				id: "26C7F8F938AC03F6"
+				id: "54EEC7D79B4E9CBC"
 				item: {
 					count: 1
 					id: "minecraft:dirt"
@@ -320,12 +337,12 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "546F8CD429DBECC7"
+				id: "0DDB9E9F019D456E"
 				item: { count: 1, id: "ironchest:dirt_chest" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 1.0d
+			x: 3.5d
+			y: 0.0d
 		}
 	]
 }

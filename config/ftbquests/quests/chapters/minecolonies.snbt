@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "minecolonies"
 	group: ""
+	icon: {
+		id: "neoorigins:orb_of_origin"
+	}
 	id: "720FE2A46798BB37"
 	images: [
 		{

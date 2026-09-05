@@ -373,6 +373,14 @@
 			x: 6.5d
 			y: 13.5d
 		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/mowzie_title.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.0d
+			y: 2.5d
+		}
 	]
 	order_index: 4
 	quest_links: [ ]

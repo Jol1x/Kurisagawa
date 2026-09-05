@@ -22,7 +22,7 @@ anyskin-0.1.0.jar
 [AppleSkin](https://modrinth.com/mod/appleskin)
 [Applied Energistics 2](https://modrinth.com/mod/ae2)
 [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
-[Applied Experienced](https://modrinth.com/mod/applied-experienced)
+applied-experienced-1.21.1-1.3.2.jar
 [Architectury API](https://modrinth.com/mod/architectury-api)
 [Artifacts](https://modrinth.com/mod/artifacts)
 [AttributeFix](https://modrinth.com/mod/attributefix)
@@ -47,7 +47,6 @@ blockui-1.0.211-1.21.1-snapshot.jar
 [Collective](https://modrinth.com/mod/collective)
 [Colorful Hearts](https://modrinth.com/mod/colorful-hearts)
 [Connector Extras](https://modrinth.com/mod/connector-extras)
-connector-2.0.0-beta.14+1.21.1-full.jar
 [Construction Wands Revived](https://modrinth.com/mod/construction-wands-revived)
 [Continuity](https://modrinth.com/mod/continuity)
 [Controlling](https://modrinth.com/mod/controlling)

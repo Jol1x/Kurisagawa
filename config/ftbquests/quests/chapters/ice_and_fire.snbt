@@ -303,7 +303,15 @@
 			rotation: 0.0d
 			width: 10.0d
 			x: 0.0d
-			y: -10.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "kurisagawa:textures/questpics/ice_and_fire_name_title.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -6.0d
 		}
 	]
 	order_index: 2

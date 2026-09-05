@@ -112,8 +112,8 @@
 			order: 1
 			rotation: 0.0d
 			width: 1.0d
-			x: -1.5d
-			y: -1.5d
+			x: -1.0d
+			y: -2.0d
 		}
 		{
 			height: 1.0d
@@ -249,6 +249,15 @@
 			width: 1.0d
 			x: 1.5d
 			y: -9.5d
+		}
+		{
+			height: 2.7d
+			image: "relics:textures/hud/abilities/card_frame_active.png"
+			order: 2
+			rotation: 0.0d
+			width: 2.7d
+			x: -2.0d
+			y: 0.0d
 		}
 	]
 	order_index: 3

@@ -84,7 +84,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["6CDFD218FA26A577"]
@@ -95,7 +95,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -3.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["6CDFD218FA26A577"]
@@ -106,7 +106,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -4.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["6CDFD218FA26A577"]
@@ -117,7 +117,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -5.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["6CDFD218FA26A577"]
@@ -128,10 +128,11 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -6.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["6CDFD218FA26A577"]
+			hide_dependent_lines: true
 			id: "2EE9E8EFB004C9BF"
 			rewards: [
 				{
@@ -869,20 +870,6 @@
 					type: "xp_levels"
 					xp_levels: 1
 				}
-				{
-					auto: "disabled"
-					disable_reward_screen_blur: true
-					exclude_from_claim_all: true
-					id: "722EAD70C654C38F"
-					ignore_reward_blocking: true
-					item: {
-						count: 1
-						id: "sophisticatedbackpacks:survival_infinity_upgrade"
-					}
-					only_one: true
-					team_reward: false
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "2CAF070494237E9D"
@@ -1097,7 +1084,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["2EE9E8EFB004C9BF"]
+			dependencies: ["0948BA91B4005BF7"]
 			id: "50F89A84037FAEF4"
 			rewards: [
 				{
@@ -1127,8 +1114,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 3.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["50F89A84037FAEF4"]
@@ -1161,8 +1148,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_2" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.0d
+			x: 4.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["54D64946BDF15E10"]
@@ -1195,8 +1182,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_3" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 5.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["03611CC28E6BF7E2"]
@@ -1229,8 +1216,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_4" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 6.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["2EE9E8EFB004C9BF"]
@@ -1480,6 +1467,550 @@
 			}]
 			x: 3.0d
 			y: 8.0d
+		}
+		{
+			dependencies: ["2EE9E8EFB004C9BF"]
+			id: "36AA1002B1BDA454"
+			rewards: [
+				{
+					id: "5386E41A8780C00A"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "20E5AFE858891A3F"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "333F332FD3D99DDE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "45F593B42C09DE90"
+				item: { count: 1, id: "sophisticatedbackpacks:alchemy_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2EE9E8EFB004C9BF"]
+			id: "7EFC081FB4D2C4B4"
+			rewards: [
+				{
+					id: "1DEED15385480755"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "191D05624DC7FB43"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "4A28CC80C7143F49"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "173967A7EEAA6CF7"
+				item: { count: 1, id: "sophisticatedbackpacks:mob_catcher_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36AA1002B1BDA454"]
+			id: "43AFBF60993DD1CF"
+			rewards: [
+				{
+					id: "49D873A85E8AF9D4"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "560C18C7479A654A"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "665D6F42DBCAFBC5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "25C96C0E44C333BF"
+				item: { count: 1, id: "sophisticatedbackpacks:advanced_alchemy_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7EFC081FB4D2C4B4"]
+			id: "4735BA9430273063"
+			rewards: [
+				{
+					id: "680970928004309A"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "28AADE98319CE043"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "22A1442F254467AF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "4BF393A9C826B511"
+				item: { count: 1, id: "sophisticatedbackpacks:advanced_mob_catcher_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2EE9E8EFB004C9BF"]
+			id: "0948BA91B4005BF7"
+			rewards: [
+				{
+					id: "0938E58F3384DAE6"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "0A96FEDFCC836B96"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "11CC8017D1CD0798"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "53C24D926EB94CEE"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0948BA91B4005BF7"]
+			id: "73D05045E0E0F5ED"
+			rewards: [
+				{
+					id: "69A8FFF6FD9D93D2"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "3C15025CBDE03D95"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "769762BE9FC5F560"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "46F717676A834F5D"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_1_conversion" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["73D05045E0E0F5ED"]
+			id: "01C4CEF44FF371AA"
+			rewards: [
+				{
+					id: "48C0009100B0A76A"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7150F684733C90E6"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "0993EA945A04CD50"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "0E91632571BE6852"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_2_conversion" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["01C4CEF44FF371AA"]
+			id: "094377A136D56463"
+			rewards: [
+				{
+					id: "26B9FB399186A6E6"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "687A1A8849B5BCF6"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "531745029BBF7ADD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5FAA735EB2D88C9D"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_2_to_tier_3_conversion" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["094377A136D56463"]
+			id: "782B26A7DF21D5EF"
+			rewards: [
+				{
+					id: "1678611C1013950C"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "05ABE59ADB46BAA2"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "632345E955D9FF2B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "6089C79490F7A546"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_3_to_tier_4_conversion" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["73D05045E0E0F5ED"]
+			id: "60EAA3E4AA101F01"
+			rewards: [
+				{
+					id: "7934172323A5F31E"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "2538E14147F27383"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "6D54CB1F25A328E1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "1A03DFC77944B355"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_3_conversion" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["73D05045E0E0F5ED"]
+			id: "2F9238462CD3B200"
+			rewards: [
+				{
+					id: "738B5A5CCB58F900"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "4B946CAFEC3FBA09"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "61BD333395079387"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5C7AD92FD53CD52F"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_4_conversion" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["01C4CEF44FF371AA"]
+			id: "1ABAFBF9E2F052D3"
+			rewards: [
+				{
+					id: "71E016DE2F7A78CC"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "147229E5E9F639CF"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "2DAADDF5D01E96F5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "27FD5834A6F55FDC"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_2_to_tier_4_conversion" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0948BA91B4005BF7"]
+			id: "68EF25295B8C9D98"
+			rewards: [
+				{
+					id: "71365DC4C33AC6BF"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "2803D8A74F844721"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "22D870470818FBDD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "2CE0CC46F285585E"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_2_conversion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0948BA91B4005BF7"]
+			id: "2A01F9F9581C1D3E"
+			rewards: [
+				{
+					id: "42FAFD6224BF49B4"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "5172726DA14ECF8E"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "004A179B056FDA22"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "25CBB9635BE434E9"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_3_conversion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0948BA91B4005BF7"]
+			id: "4D7668660AAD916A"
+			rewards: [
+				{
+					id: "6AE734E1D6626B58"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7DF69AD42E6C1EA8"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7ED30B03C60C69C4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "041813451CD4200F"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_4_conversion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["58D06D1A36610958"]
+			id: "041877A8B2F298B3"
+			rewards: [
+				{
+					id: "7EB8BD05EABF1217"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "1066B08DA416FD7F"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "4263A715E0DF70D7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "38C549F8AADB9AF9"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.0d
 		}
 	]
 }

@@ -80,6 +80,14 @@
 			x: 15.5d
 			y: 0.0d
 		}
+		{
+			height: 1.5d
+			image: "kurisagawa:textures/apothic/enchant_max.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 23.5d
+			y: 0.0d
+		}
 	]
 	order_index: 1
 	progression_mode: "flexible"
