@@ -1,4 +1,5 @@
 {
+	autofocus_id: "6CDFD218FA26A577"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "sophisticated_backpacks"
@@ -1907,8 +1908,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_2_conversion" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: 1.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0948BA91B4005BF7"]
@@ -1942,7 +1943,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0948BA91B4005BF7"]
@@ -1975,7 +1976,7 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_4_conversion" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: 11.0d
 		}
 		{
@@ -2011,6 +2012,22 @@
 			}]
 			x: 7.0d
 			y: 10.0d
+		}
+		{
+			dependencies: ["6CDFD218FA26A577"]
+			id: "329AA65E95DB5617"
+			rewards: [{
+				id: "4EAE93152EBAE545"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "373DCB258C797398"
+				item: { count: 1, id: "sophisticatedcore:ender_linker" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 }
