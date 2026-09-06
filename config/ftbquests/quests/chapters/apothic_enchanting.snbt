@@ -87,7 +87,15 @@
 			rotation: 0.0d
 			width: 6.0d
 			x: 23.5d
-			y: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 5.0d
+			image: "kurisagawa:textures/apothic/enchant_max_image.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 23.5d
+			y: 0.5d
 		}
 	]
 	order_index: 1
@@ -816,30 +824,35 @@
 			size: 2.0d
 			tasks: [
 				{
-					count: 5L
-					id: "1F985EE897C559DA"
+					id: "623D4737033AB7AE"
 					item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" }
 					type: "item"
 				}
 				{
-					count: 5L
-					id: "7E52C8FAC7C1773C"
-					item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" }
+					id: "2A3A354E0E77A772"
+					item: { count: 1, id: "apothic_enchanting:beeshelf" }
 					type: "item"
 				}
 				{
-					id: "1CB04FAC692B7887"
+					count: 6L
+					id: "25D52E2FBAF04DAE"
+					item: { count: 1, id: "apothic_enchanting:heart_seashelf" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "061E7D586E2A7676"
 					item: { count: 1, id: "apothic_enchanting:draconic_endshelf" }
 					type: "item"
 				}
 				{
-					id: "0BB099AA11E08F8B"
+					id: "05C888F67ADBE1ED"
 					item: { count: 1, id: "apothic_enchanting:geode_shelf" }
 					type: "item"
 				}
 				{
-					id: "3107F916D4A7E343"
-					item: { count: 1, id: "apothic_enchanting:treasure_shelf" }
+					id: "1C745C36C4AA9FA5"
+					item: { count: 1, id: "apothic_enchanting:sightshelf_t2" }
 					type: "item"
 				}
 			]

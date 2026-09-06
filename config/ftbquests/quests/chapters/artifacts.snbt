@@ -135,7 +135,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 2.8474320241691844d
-			x: -3.5d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
@@ -144,8 +144,8 @@
 			order: 1
 			rotation: 0.0d
 			width: 2.0412517780938835d
-			x: -5.5d
-			y: 0.0d
+			x: 0.0d
+			y: -7.5d
 		}
 		{
 			height: 5.0d
@@ -153,7 +153,7 @@
 			order: 1
 			rotation: 0.0d
 			width: 2.766990291262136d
-			x: -7.5d
+			x: -5.5d
 			y: 0.0d
 		}
 		{
