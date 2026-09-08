@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "31DB252DD1CD8531"
 			image: "kurisagawa:textures/pylons/pylon_title.png"
 			order: 2
 			rotation: 0.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 15.0d
+			id: "33425C170BFB889F"
 			image: "extendedae:part/active_formation_plane_on"
 			rotation: 0.0d
 			width: 15.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "563769CE0FB87A1A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3F3C542577431B2A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -44,6 +48,7 @@
 		}
 		{
 			height: 1.0d
+			id: "79BAD5E831F43335"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -52,6 +57,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2E2C94DF26E27385"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -60,6 +66,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3FFBF19BA47DC01B"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -68,6 +75,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75CD9CCE08B6F74E"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -76,6 +84,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2317C9ECB7E8D70F"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -84,6 +93,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22ECB573AF8A6936"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -92,6 +102,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7865F2C4AF8448BB"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -100,6 +111,7 @@
 		}
 		{
 			height: 1.0d
+			id: "26D1C7A3D7558A89"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -108,6 +120,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3E23DAC4385A84E1"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -116,6 +129,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3BE08745BF5A8E6C"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -124,6 +138,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22E901E6CEC3E03A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7ABE0F8B5B7E1FAE"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -140,6 +156,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C51A098142E993A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -148,6 +165,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22E545F9A407D316"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -156,6 +174,7 @@
 		}
 		{
 			height: 1.0d
+			id: "29EE416D5D12C3B9"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -164,6 +183,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2B3D42057807CA23"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -172,6 +192,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F3221F7DC21EAD8"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -180,6 +201,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4DDDD95FF331D144"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -188,6 +210,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32D5A41AC3634847"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -196,6 +219,7 @@
 		}
 		{
 			height: 1.0d
+			id: "64912E993DE38358"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -204,6 +228,7 @@
 		}
 		{
 			height: 1.0d
+			id: "701B32A85BDCF8DB"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -212,6 +237,7 @@
 		}
 		{
 			height: 1.0d
+			id: "083F8383A11D44C4"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -220,6 +246,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5A65F37F5B5848D6"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -228,6 +255,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0CD7B3B826990AA5"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -236,6 +264,7 @@
 		}
 		{
 			height: 1.0d
+			id: "702CDF68E77FA99C"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -244,6 +273,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2692CEC1D78F4A30"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -252,6 +282,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CCBE08554D654FE"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -260,6 +291,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6371FFF9408996B7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -268,6 +300,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3DED2F68A02BDC79"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -276,6 +309,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4AC01E0A71D54FE6"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -284,6 +318,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1E26790D0F9FCEE6"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -292,6 +327,7 @@
 		}
 		{
 			height: 1.0d
+			id: "16970D6AB9A013F3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -300,6 +336,7 @@
 		}
 		{
 			height: 1.0d
+			id: "004BB17122320329"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -308,6 +345,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03934F0FEB46B537"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -316,6 +354,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06095451F508DC9E"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -324,6 +363,7 @@
 		}
 		{
 			height: 1.0d
+			id: "20CD0BEB02FCC37A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -332,6 +372,7 @@
 		}
 		{
 			height: 1.0d
+			id: "65EDE9018725F7AC"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -340,6 +381,7 @@
 		}
 		{
 			height: 1.0d
+			id: "44D555F52525C890"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -348,6 +390,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2944EA04320220C7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -356,6 +399,7 @@
 		}
 		{
 			height: 1.0d
+			id: "10F3EDFD571980A6"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -364,6 +408,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2925895E09169F0B"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -372,6 +417,7 @@
 		}
 		{
 			height: 1.0d
+			id: "786DC1443C13238C"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -380,6 +426,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2DFEA10606331B01"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -388,6 +435,7 @@
 		}
 		{
 			height: 1.0d
+			id: "684A930E1CE4C773"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -396,6 +444,7 @@
 		}
 		{
 			height: 1.0d
+			id: "762189755A0B36C2"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -404,6 +453,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2E46C5CE63BB35F7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -412,6 +462,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22500B28AA8B5764"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -420,6 +471,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4DF5D06D932FF802"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -428,6 +480,7 @@
 		}
 		{
 			height: 0.7d
+			id: "5C2D9A969B424320"
 			image: "cataclysm:block/polished_obsidian"
 			order: 1
 			rotation: 0.0d
@@ -437,6 +490,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4AF88076FB014B44"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -445,6 +499,7 @@
 		}
 		{
 			height: 1.0d
+			id: "395C240B51178F4A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -453,6 +508,7 @@
 		}
 		{
 			height: 1.0d
+			id: "10ADDFCC9610BA1D"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -461,6 +517,7 @@
 		}
 		{
 			height: 1.0d
+			id: "545FE2D9C31B18BC"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -469,6 +526,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C056A99E9F9ADE7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -477,6 +535,7 @@
 		}
 		{
 			height: 1.0d
+			id: "18B096E445A4004A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -485,6 +544,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7FA6EB345E80BEE1"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -493,6 +553,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51C156DA38454EBD"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -501,6 +562,7 @@
 		}
 		{
 			height: 1.0d
+			id: "159EFACF70DEE1BA"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -509,6 +571,7 @@
 		}
 		{
 			height: 1.0d
+			id: "536FE05DAB57B9E3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -517,6 +580,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1E2A2C81C8198E69"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -525,6 +589,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1C28637929A75991"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -533,6 +598,7 @@
 		}
 		{
 			height: 1.0d
+			id: "336482CF48BE5032"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -541,6 +607,7 @@
 		}
 		{
 			height: 1.0d
+			id: "63775D2B2487803F"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -549,6 +616,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3C11F0FAD62A50A3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -557,6 +625,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CA3ACC5E4500A09"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -565,6 +634,7 @@
 		}
 		{
 			height: 1.0d
+			id: "13C723E3C8722CAA"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -573,6 +643,7 @@
 		}
 		{
 			height: 1.0d
+			id: "541046F3A7CB598F"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -581,6 +652,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2B8586BA61594258"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -589,6 +661,7 @@
 		}
 		{
 			height: 1.0d
+			id: "774FE5E788D9DB63"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -597,6 +670,7 @@
 		}
 		{
 			height: 1.0d
+			id: "11E80DA8438E5341"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -605,6 +679,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6BBB078F2C0EC8CA"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -613,6 +688,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1F30AC9B070C7F42"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -621,6 +697,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1989C450A76F5322"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -629,6 +706,7 @@
 		}
 		{
 			height: 1.0d
+			id: "717CBD5818F7E670"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 0.0d
 			width: 1.0d
@@ -637,6 +715,7 @@
 		}
 		{
 			height: 1.0d
+			id: "50F64B6F7E6D49D7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -645,6 +724,7 @@
 		}
 		{
 			height: 1.0d
+			id: "510BD4A5FE15023D"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -653,6 +733,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2BABBAEB1F4C869D"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -661,6 +742,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3A02016C45150282"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -669,6 +751,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D13D93F1B1058A9"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -677,6 +760,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7F8D4AF5775B4792"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -685,6 +769,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4AB2182A17225614"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -693,6 +778,7 @@
 		}
 		{
 			height: 1.0d
+			id: "323E4B7905015EAE"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -701,6 +787,7 @@
 		}
 		{
 			height: 1.0d
+			id: "472BC2E0B5D463C4"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -709,6 +796,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D8A34A0D706877D"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -717,6 +805,7 @@
 		}
 		{
 			height: 1.0d
+			id: "63360C1B7D55B506"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -725,6 +814,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CD077ACB0963E95"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -733,6 +823,7 @@
 		}
 		{
 			height: 1.0d
+			id: "40879FDB5F03ECD3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -741,6 +832,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0FD78D689D1FAA5A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -749,6 +841,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BB6AEF2A778721E"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -757,6 +850,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35FFFBA9D410EC39"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -765,6 +859,7 @@
 		}
 		{
 			height: 1.0d
+			id: "075D340B693416FD"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -773,6 +868,7 @@
 		}
 		{
 			height: 1.0d
+			id: "61DD3571FD00FEE7"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -781,6 +877,7 @@
 		}
 		{
 			height: 1.0d
+			id: "743BB0134AB92C8D"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -789,6 +886,7 @@
 		}
 		{
 			height: 1.0d
+			id: "647346A53EAF30C3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -797,6 +895,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51988C4C657980B1"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -805,6 +904,7 @@
 		}
 		{
 			height: 1.0d
+			id: "79AE416A85B20A06"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -813,6 +913,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5E236A7D045C8720"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -821,6 +922,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F044040D4E61D22"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -829,6 +931,7 @@
 		}
 		{
 			height: 1.0d
+			id: "049A5E09D9181ED3"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -837,6 +940,7 @@
 		}
 		{
 			height: 0.7d
+			id: "643F12E039CF16EA"
 			image: "cataclysm:block/polished_obsidian"
 			order: 1
 			rotation: 0.0d
@@ -846,6 +950,7 @@
 		}
 		{
 			height: 0.7d
+			id: "50554A871034FED8"
 			image: "cataclysm:block/polished_obsidian"
 			order: 1
 			rotation: 0.0d
@@ -855,6 +960,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3B5FD6DE5BDF0D04"
 			image: "ae2:block/quantum_ring_light"
 			order: 1
 			rotation: 0.0d
@@ -864,6 +970,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4B0511A643A82A05"
 			image: "ae2:block/quantum_ring_light_corner"
 			order: 1
 			rotation: 0.0d
@@ -873,6 +980,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6393C72D79865F00"
 			image: "ae2:block/quantum_ring_light"
 			order: 1
 			rotation: 0.0d
@@ -882,6 +990,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4D5C3FAB46E52B5B"
 			image: "ae2:block/quantum_ring_light_corner"
 			order: 1
 			rotation: 0.0d
@@ -891,6 +1000,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4B5CE741FBA837D6"
 			image: "ae2:block/quantum_ring_light_corner"
 			order: 1
 			rotation: 0.0d
@@ -900,6 +1010,7 @@
 		}
 		{
 			height: 0.7d
+			id: "0CD2EE47B108E071"
 			image: "cataclysm:block/polished_obsidian"
 			order: 1
 			rotation: 0.0d

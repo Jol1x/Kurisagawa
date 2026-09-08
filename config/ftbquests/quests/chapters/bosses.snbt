@@ -7,6 +7,7 @@
 	images: [
 		{
 			height: 10.0d
+			id: "59A578D7CDF0B380"
 			image: "cataclysm:textures/entity/leviathan/dimensional_rift/dimensional_rift_idle4.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -15,6 +16,7 @@
 		}
 		{
 			height: 10.0d
+			id: "70BE2CC060A14171"
 			image: "cataclysm:textures/particle/shock_wave.png"
 			order: 1
 			rotation: 0.0d
@@ -24,6 +26,7 @@
 		}
 		{
 			height: 15.0d
+			id: "5C36C80E5345404E"
 			image: "cataclysm:textures/entity/leviathan/portal/abyss_portal_idle_3.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -32,6 +35,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6FF7E07141915292"
 			image: "cataclysm:textures/entity/flame_strike_sigil.png"
 			order: 2
 			rotation: 0.0d
@@ -41,6 +45,7 @@
 		}
 		{
 			height: 7.0d
+			id: "573DB622D813BAC3"
 			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
 			order: 1
 			rotation: 0.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 4.6d
+			id: "65217BAE2F1201D9"
 			image: "alexsmobs:textures/entity/farseer/portal_3.png"
 			order: 3
 			rotation: 0.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 13.0d
+			id: "570E97900A50F8CD"
 			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 10.0d
+			id: "7008C2420509DC3D"
 			image: "cataclysm:textures/entity/leviathan/dimensional_rift/abyss_black_hole_idle4.png"
 			order: 1
 			rotation: 0.0d
@@ -76,6 +84,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7258FFED25E5D289"
 			image: "kurisagawa:textures/questpics/twilight_forest_title.png"
 			order: 4
 			rotation: 0.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2924BFFE6A9CA5B4"
 			image: "minecraft:textures/gui/title/minceraft.png"
 			order: 4
 			rotation: 0.0d
@@ -94,6 +104,7 @@
 		}
 		{
 			height: 2.5d
+			id: "23F7895501D498F1"
 			image: "kurisagawa:textures/questpics/cataclysm.png"
 			order: 2
 			rotation: 0.0d

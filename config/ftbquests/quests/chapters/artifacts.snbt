@@ -59,6 +59,7 @@
 	images: [
 		{
 			height: 3.5d
+			id: "455C7CE4A6C7DB0C"
 			image: "kurisagawa:textures/artifacts/artifacts_head.png"
 			order: 1
 			rotation: 0.0d
@@ -68,6 +69,7 @@
 		}
 		{
 			height: 3.0d
+			id: "45AEFED4F6911ED2"
 			image: "kurisagawa:textures/artifacts/artifacts_hands.png"
 			order: 1
 			rotation: 0.0d
@@ -77,6 +79,7 @@
 		}
 		{
 			height: 3.0d
+			id: "481C64D1CFA1A251"
 			image: "kurisagawa:textures/artifacts/artifacts_hands.png"
 			order: 1
 			rotation: 0.0d
@@ -86,6 +89,7 @@
 		}
 		{
 			height: 3.0d
+			id: "45F00E4E7566EDFE"
 			image: "kurisagawa:textures/artifacts/artifacts_necklace.png"
 			order: 1
 			rotation: 0.0d
@@ -95,6 +99,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1033E6B0A6B17082"
 			image: "kurisagawa:textures/artifacts/artifacts_belt.png"
 			order: 1
 			rotation: 0.0d
@@ -104,6 +109,7 @@
 		}
 		{
 			height: 5.0d
+			id: "27C7D044F7D59309"
 			image: "kurisagawa:textures/artifacts/artifacts_title.png"
 			order: 1
 			rotation: 0.0d
@@ -113,6 +119,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7DB15AFF32517AD4"
 			image: "kurisagawa:textures/artifacts/artifacts_cowboy.png"
 			order: 1
 			rotation: 0.0d
@@ -122,6 +129,7 @@
 		}
 		{
 			height: 5.0d
+			id: "153C830E44714F12"
 			image: "kurisagawa:textures/artifacts/artifacts_pool.png"
 			order: 1
 			rotation: 0.0d
@@ -131,6 +139,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3EB7141E040B9D3A"
 			image: "kurisagawa:textures/artifacts/artifacts_flameon.png"
 			order: 1
 			rotation: 0.0d
@@ -140,6 +149,7 @@
 		}
 		{
 			height: 5.0d
+			id: "44651D6C624E1943"
 			image: "kurisagawa:textures/artifacts/artifacts_lucky.png"
 			order: 1
 			rotation: 0.0d
@@ -149,6 +159,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1D23DFECD7079DCD"
 			image: "kurisagawa:textures/artifacts/artifacts_hungry.png"
 			order: 1
 			rotation: 0.0d
@@ -158,6 +169,7 @@
 		}
 		{
 			height: 3.0d
+			id: "58DDA5A835B429DA"
 			image: "kurisagawa:textures/artifacts/artifacts_feet.png"
 			order: 1
 			rotation: 0.0d

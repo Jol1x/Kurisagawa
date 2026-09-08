@@ -8,6 +8,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "17168CAFFBFAD2C0"
 			image: "alexscaves:textures/misc/advancement/icon/forlorn_hollows.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -16,6 +17,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2BBE171D053F241B"
 			image: "alexscaves:item/pure_darkness"
 			rotation: 0.0d
 			width: 1.0d
@@ -24,6 +26,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0706F3DAC1E4A60C"
 			image: "alexscaves:item/hood_of_darkness"
 			rotation: 0.0d
 			width: 1.0d
@@ -32,6 +35,7 @@
 		}
 		{
 			height: 1.0d
+			id: "23531C40E30E8F38"
 			image: "alexscaves:textures/misc/advancement/icon/defeat_watcher.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -40,6 +44,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0EC28B493B72D7D6"
 			image: "alexscaves:item/dreadbow_pulling_2"
 			rotation: 0.0d
 			width: 1.0d
@@ -48,6 +53,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4AA5D479FC8787B7"
 			image: "alexscaves:item/totem_of_possession_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -56,6 +62,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3C9800854523B8F4"
 			image: "alexscaves:textures/mob_effect/darkness_incarnate.png"
 			order: 2
 			rotation: 0.0d
@@ -65,6 +72,7 @@
 		}
 		{
 			height: 1.0d
+			id: "36BDF26FA08ECC48"
 			image: "alexscaves:item/cloak_of_darkness"
 			rotation: 0.0d
 			width: 1.0d
@@ -73,6 +81,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3B1F0A49CA945779"
 			image: "alexscaves:item/fertilizer"
 			rotation: 0.0d
 			width: 1.0d
@@ -81,6 +90,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7E80BDB659C2026F"
 			image: "alexscaves:textures/misc/advancement/icon/deep_one_1.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -89,6 +99,7 @@
 		}
 		{
 			height: 1.0d
+			id: "310E275E266DD52E"
 			image: "alexscaves:textures/misc/advancement/icon/deep_one_0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -97,6 +108,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7305979726F2C040"
 			image: "alexscaves:item/submarine"
 			rotation: 0.0d
 			width: 1.0d
@@ -105,6 +117,7 @@
 		}
 		{
 			height: 1.0d
+			id: "78B26FFF83B92181"
 			image: "alexsmobs:block/ghostly_pickaxe/destroy_stage_4"
 			rotation: 0.0d
 			width: 1.0d
@@ -113,6 +126,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D3735709E656C63"
 			image: "alexsmobs:item/bucket_content/comb_jelly"
 			rotation: 0.0d
 			width: 1.0d
@@ -121,6 +135,7 @@
 		}
 		{
 			height: 1.0d
+			id: "689BD0536F09A5D6"
 			image: "alexscaves:item/immortal_embryo"
 			rotation: 0.0d
 			width: 1.0d
@@ -129,6 +144,7 @@
 		}
 		{
 			height: 1.0d
+			id: "18ACEB215A55220A"
 			image: "alexscaves:item/diving_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -137,6 +153,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B91C9B73252FB0A"
 			image: "alexscaves:item/diving_leggings"
 			rotation: 0.0d
 			width: 1.0d
@@ -145,6 +162,7 @@
 		}
 		{
 			height: 1.0d
+			id: "53B2AD7AB02A3ABD"
 			image: "alexsmobs:item/pupfish_locator"
 			order: 3
 			rotation: 0.0d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D8ACFB45D7527ED"
 			image: "relics:item/jellyfish_necklace"
 			rotation: 0.0d
 			width: 1.0d
@@ -162,6 +181,7 @@
 		}
 		{
 			height: 1.0d
+			id: "434D245458C8C154"
 			image: "iceandfire:item/ectoplasm"
 			rotation: 0.0d
 			width: 1.0d
@@ -170,6 +190,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3E38EF35DD4C9A07"
 			image: "alexsmobs:block/ghostly_pickaxe/destroy_stage_4"
 			rotation: 0.0d
 			width: 1.0d
@@ -178,6 +199,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B040514A71AF584"
 			image: "alexscaves:item/bioluminesscence"
 			order: 2
 			rotation: 0.0d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 1.25d
+			id: "5C87BA0D4E39E67C"
 			image: "alexscaves:item/tremorzilla_egg"
 			rotation: 0.0d
 			width: 1.25d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 1.0d
+			id: "249FE965918BBDD7"
 			image: "alexscaves:textures/misc/advancement/icon/hatch_tremorzilla.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -203,6 +227,7 @@
 		}
 		{
 			height: 1.0d
+			id: "49BA163F0D5B94AF"
 			image: "alexscaves:block/uranium_ore_glow"
 			rotation: 0.0d
 			width: 1.0d
@@ -211,6 +236,7 @@
 		}
 		{
 			height: 1.0d
+			id: "12E5B291075F466D"
 			image: "alexscaves:textures/misc/advancement/icon/tremorzilla_beam.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -219,6 +245,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7AF531C7E102CD48"
 			image: "alexscaves:block/acidic_radrock_glow"
 			rotation: 0.0d
 			width: 1.0d
@@ -227,6 +254,7 @@
 		}
 		{
 			height: 1.0d
+			id: "746CC696CA7F42F0"
 			image: "alexscaves:block/acidic_radrock_glow"
 			order: -1
 			rotation: 180.0d
@@ -236,6 +264,7 @@
 		}
 		{
 			height: 1.0d
+			id: "73C289EEE08791F9"
 			image: "alexscaves:textures/mob_effect/irradiated.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -244,6 +273,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D9C986710673A86"
 			image: "alexscaves:item/hazmat_boots"
 			rotation: 0.0d
 			width: 1.0d
@@ -252,6 +282,7 @@
 		}
 		{
 			height: 1.0d
+			id: "111248CE6083F1B4"
 			image: "alexscaves:item/hazmat_leggings"
 			rotation: 0.0d
 			width: 1.0d
@@ -260,6 +291,7 @@
 		}
 		{
 			height: 1.0d
+			id: "33F17414954F6D27"
 			image: "alexscaves:item/hazmat_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -268,6 +300,7 @@
 		}
 		{
 			height: 1.0d
+			id: "43876518508CBF9E"
 			image: "alexscaves:item/hazmat_mask"
 			rotation: 0.0d
 			width: 1.0d
@@ -276,6 +309,7 @@
 		}
 		{
 			height: 1.0d
+			id: "785C1A525D332752"
 			image: "alexscaves:textures/particle/void_eye_0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -284,6 +318,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51C7F35495D81B8E"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: 90.0d
 			width: 1.0d
@@ -292,6 +327,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35C0EC05C58EBF53"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: -90.0d
 			width: 1.0d
@@ -300,6 +336,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0072768594252524"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: -90.0d
 			width: 1.0d
@@ -308,6 +345,7 @@
 		}
 		{
 			height: 1.0d
+			id: "47C486A73F620818"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: 90.0d
 			width: 1.0d
@@ -316,6 +354,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2C149373BB1B1CA4"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: 90.0d
 			width: 1.0d
@@ -324,6 +363,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7F91DF3BD53AB663"
 			image: "alexscaves:block/archaic_vine_plant"
 			rotation: -90.0d
 			width: 1.0d
@@ -332,6 +372,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CA52D874A65F122"
 			image: "alexscaves:item/dinosaur_nugget_3"
 			rotation: 0.0d
 			width: 0.7d
@@ -340,6 +381,7 @@
 		}
 		{
 			height: 1.0d
+			id: "337A25335AA4C6CC"
 			image: "alexscaves:item/ominous_catalyst"
 			rotation: 0.0d
 			width: 1.0d
@@ -348,6 +390,7 @@
 		}
 		{
 			height: 1.0d
+			id: "39D3EB6E43B06BD5"
 			image: "alexscaves:item/primordial_helmet"
 			rotation: 0.0d
 			width: 1.0d
@@ -356,6 +399,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7262FF9D56A58538"
 			image: "alexscaves:item/primordial_pants"
 			rotation: 0.0d
 			width: 0.7d
@@ -364,6 +408,7 @@
 		}
 		{
 			height: 1.0d
+			id: "706A961599E12D9F"
 			image: "alexscaves:item/amber_curiosity"
 			rotation: 0.0d
 			width: 1.0d
@@ -372,6 +417,7 @@
 		}
 		{
 			height: 1.25d
+			id: "3DC7B956AD13B026"
 			image: "alexscaves:textures/misc/advancement/icon/summon_luxtructosaurus.png"
 			order: 2
 			rotation: 0.0d
@@ -381,6 +427,7 @@
 		}
 		{
 			height: 1.0d
+			id: "055A7EEA4C9A3550"
 			image: "alexscaves:item/tough_hide"
 			rotation: 0.0d
 			width: 1.0d
@@ -389,6 +436,7 @@
 		}
 		{
 			height: 1.0d
+			id: "255E8B6EB0FDFD48"
 			image: "alexscaves:item/extinction_spear"
 			rotation: 0.0d
 			width: 1.0d
@@ -397,6 +445,7 @@
 		}
 		{
 			height: 1.0d
+			id: "719188864E4E4A60"
 			image: "alexscaves:item/tectonic_shard"
 			rotation: 0.0d
 			width: 1.0d
@@ -405,6 +454,7 @@
 		}
 		{
 			height: 1.0d
+			id: "38DDA9BEFE1CD355"
 			image: "alexscaves:item/serene_salad"
 			rotation: 0.0d
 			width: 1.0d
@@ -413,6 +463,7 @@
 		}
 		{
 			height: 1.3d
+			id: "4E88EE8ADB1D16B7"
 			image: "alexscaves:item/telecore"
 			rotation: 0.0d
 			width: 1.3d
@@ -421,6 +472,7 @@
 		}
 		{
 			height: 1.0d
+			id: "620E0A22663AB2E3"
 			image: "alexscaves:item/raw_azure_neodymium"
 			rotation: 0.0d
 			width: 1.0d
@@ -429,6 +481,7 @@
 		}
 		{
 			height: 1.0d
+			id: "25F6804C4722302D"
 			image: "alexscaves:item/raw_scarlet_neodymium"
 			rotation: 0.0d
 			width: 1.0d
@@ -437,6 +490,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32CC83C6DB5F2623"
 			image: "alexscaves:item/quarry_smasher"
 			rotation: 0.0d
 			width: 1.0d
@@ -445,6 +499,7 @@
 		}
 		{
 			height: 1.0d
+			id: "158A2295C176FB25"
 			image: "alexscaves:item/tesla_bulb"
 			rotation: 0.0d
 			width: 1.0d
@@ -453,6 +508,7 @@
 		}
 		{
 			height: 1.0d
+			id: "68FDE0841931F12C"
 			image: "alexscaves:item/notor_gizmo"
 			rotation: 0.0d
 			width: 1.0d
@@ -461,6 +517,7 @@
 		}
 		{
 			height: 1.4d
+			id: "11D0F42FCD303EE0"
 			image: "alexscaves:textures/misc/advancement/icon/magnetic_caves.png"
 			rotation: 84.0d
 			width: 1.4d
@@ -469,6 +526,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4AF716359D447E16"
 			image: "alexscaves:item/holocoder_bound"
 			rotation: 0.0d
 			width: 1.0d
@@ -477,6 +535,7 @@
 		}
 		{
 			height: 2.0d
+			id: "46BEAE4972A7522C"
 			image: "kurisagawa:textures/questpics/alex_caves_title.png"
 			rotation: 0.0d
 			width: 8.0d

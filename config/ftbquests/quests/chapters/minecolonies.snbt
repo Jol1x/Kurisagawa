@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "37CEAD569DF90C9B"
 			image: "kurisagawa:textures/questpics/minecolonies_title.png"
 			order: 1
 			rotation: 0.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 100.0d
+			id: "2AD61FA582112024"
 			image: "minecolonies:textures/gui/megatile.png"
 			rotation: 0.0d
 			width: 100.0d

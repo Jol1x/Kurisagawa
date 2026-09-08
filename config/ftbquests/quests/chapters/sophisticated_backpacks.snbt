@@ -25,6 +25,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "00070B6331BDB337"
 			image: "kurisagawa:textures/questpics/sophisticated_backpacks_title.png"
 			order: 1
 			rotation: 0.0d
@@ -34,6 +35,7 @@
 		}
 		{
 			height: 2.0d
+			id: "131E8FC4F0C8209D"
 			image: "kurisagawa:textures/questpics/sophisticated_backpacks_print.png"
 			order: 1
 			rotation: 0.0d
@@ -43,6 +45,7 @@
 		}
 		{
 			height: 5.0d
+			id: "53300E8A10F76DB6"
 			image: "kurisagawa:textures/questpics/personal_storage.png"
 			order: 1
 			rotation: 0.0d
@@ -52,6 +55,7 @@
 		}
 		{
 			height: 100.0d
+			id: "709F517883D5B355"
 			image: "sophisticatedbackpacks:item/upgrade_base"
 			rotation: 0.0d
 			width: 100.0d

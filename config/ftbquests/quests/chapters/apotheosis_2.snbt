@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.5d
+			id: "483E1EBAA29EA69F"
 			image: "kurisagawa:textures/apothic/apothic_spawners.png"
 			order: 1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6DBEEBBAC44926E1"
 			image: "kurisagawa:textures/apothic/spawners_title.png"
 			order: 1
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6B0C72B3DBF5AE56"
 			image: "kurisagawa:textures/apothic/spawn_eggs.png"
 			order: 1
 			rotation: 0.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 100.0d
+			id: "7D16497572488F71"
 			image: "apothic_spawners:textures/advancements/bg/apoth.png"
 			rotation: 0.0d
 			width: 100.0d

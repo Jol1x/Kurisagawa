@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "032D678B11AF0EBD"
 			image: "kurisagawa:textures/apothic/logo.png"
 			rotation: 0.0d
 			width: 9.23913043478261d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.5d
+			id: "4BFAD2A43DDEB99C"
 			image: "kurisagawa:textures/apothic/enchant_nether.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.5d
+			id: "665187B633EED41B"
 			image: "kurisagawa:textures/apothic/enchant_ocean.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.5d
+			id: "470767319B41FA8B"
 			image: "kurisagawa:textures/apothic/enchant_infusions.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2EFFA864C549429B"
 			image: "kurisagawa:textures/apothic/enchant_eterna.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "136E8A19A9E1042E"
 			image: "kurisagawa:textures/apothic/enchant_quanta.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3ED32CD22C80D93B"
 			image: "kurisagawa:textures/apothic/enchant_arcana.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6D7625A510B54679"
 			image: "kurisagawa:textures/apothic/enchant_deep.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4C5359AB285EB413"
 			image: "kurisagawa:textures/apothic/enchant_end.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.5d
+			id: "35C72C9C27A3E98C"
 			image: "kurisagawa:textures/apothic/enchant_max.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -91,7 +101,18 @@
 		}
 		{
 			height: 5.0d
+			id: "536DA5A222B03FB1"
 			image: "kurisagawa:textures/apothic/enchant_max_image.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 23.5d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 5.0d
+			id: "7FC07F0396698D6F"
+			image: "twilightforest:textures/magic_paintings/castaway_paradise/frame.png"
 			rotation: 0.0d
 			width: 5.5d
 			x: 23.5d

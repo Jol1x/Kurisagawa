@@ -14,6 +14,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "74EE75F1412C5499"
 			image: "kurisagawa:textures/ae2/ae2_title.png"
 			order: 1
 			rotation: 0.0d
@@ -23,6 +24,7 @@
 		}
 		{
 			height: 100.0d
+			id: "3C8AAF4B8F4EC32D"
 			image: "advanced_ae:block/quantum_crafter_bottom"
 			rotation: 0.0d
 			width: 100.0d
@@ -31,6 +33,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4F146F29064E07A0"
 			image: "kurisagawa:textures/ae2/title_ae2.png"
 			order: 1
 			rotation: 0.0d
@@ -40,6 +43,7 @@
 		}
 		{
 			height: 1.0d
+			id: "049DD2B3F0B30885"
 			image: "ae2:item/spatial_storage_cell_128"
 			rotation: 0.0d
 			width: 1.0d
@@ -48,6 +52,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C84C9CDDE9DED62"
 			image: "ae2:item/view_cell"
 			rotation: 0.0d
 			width: 1.0d
@@ -56,6 +61,7 @@
 		}
 		{
 			height: 1.0d
+			id: "435B3CAFC0964000"
 			image: "ae2:item/unused/spatial_pylon"
 			rotation: 0.0d
 			width: 1.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03371BA0465AF72E"
 			image: "ae2:item/wireless_receiver"
 			rotation: 0.0d
 			width: 1.0d
@@ -72,6 +79,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3438B19A22F05867"
 			image: "ae2:item/empty_slot_block"
 			rotation: 0.0d
 			width: 1.0d
@@ -80,6 +88,7 @@
 		}
 		{
 			height: 1.0d
+			id: "121D4BE8EDA50F95"
 			image: "ae2:item/singularity"
 			rotation: 0.0d
 			width: 1.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2458B1DCA6F6744C"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -97,6 +107,7 @@
 		}
 		{
 			height: 1.0d
+			id: "342E77824564945C"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -106,6 +117,7 @@
 		}
 		{
 			height: 1.0d
+			id: "013E037A844AC898"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -115,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "596ECA223FCFEB2A"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "47215EABA239D8F9"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -133,6 +147,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1BF128F57AB61FBB"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -142,6 +157,7 @@
 		}
 		{
 			height: 1.0d
+			id: "629868805CF04CF9"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -151,6 +167,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6C09C9F5DBFCCED4"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -160,6 +177,7 @@
 		}
 		{
 			height: 1.0d
+			id: "318DADD82C5790CB"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -169,6 +187,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06BED7FC3D9C20C7"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -178,6 +197,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F4129A069063200"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -187,6 +207,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5E729F9429CE9AE0"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -196,6 +217,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BA2825801D68B9B"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -205,6 +227,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D83425BEAD29AD2"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -214,6 +237,7 @@
 		}
 		{
 			height: 1.0d
+			id: "034A028C485E4E5F"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -223,6 +247,7 @@
 		}
 		{
 			height: 1.0d
+			id: "188F4A0682EA3681"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -232,6 +257,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F06159EFDA12850"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -241,6 +267,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6212ADB1D7FA8687"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 45.0d
@@ -250,6 +277,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D088F3AB720BE5E"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 135.0d
@@ -259,6 +287,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1FBDEC329FE1D0B5"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 135.0d
@@ -268,6 +297,7 @@
 		}
 		{
 			height: 1.0d
+			id: "030A920363878368"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -277,6 +307,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1EC66D8C8606C1BD"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 90.0d
@@ -286,6 +317,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D0953D80EBA5380"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 0.0d
@@ -295,6 +327,7 @@
 		}
 		{
 			height: 1.0d
+			id: "436BAD8007E99124"
 			image: "ae2:block/controller_column_lights"
 			order: 1
 			rotation: 45.0d
@@ -304,6 +337,7 @@
 		}
 		{
 			height: 1.0d
+			id: "565305188BCC26A0"
 			image: "ae2:item/quantum_entangled_singularity"
 			order: 1
 			rotation: 0.0d
@@ -313,6 +347,7 @@
 		}
 		{
 			height: 1.0d
+			id: "21B37203368CAD81"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -322,6 +357,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0480167085FAAA5F"
 			image: "ae2:item/quantum_entangled_singularity"
 			order: 1
 			rotation: 0.0d
@@ -331,6 +367,7 @@
 		}
 		{
 			height: 1.0d
+			id: "68AB5E1B4E251D21"
 			image: "ae2:item/quantum_entangled_singularity"
 			order: 1
 			rotation: 0.0d
@@ -340,6 +377,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1117C4E47ACDAD5C"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -349,6 +387,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BECE01686E6B98B"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -358,6 +397,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5977E54A92500531"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -367,6 +407,7 @@
 		}
 		{
 			height: 1.0d
+			id: "035602A933AE8FEF"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -376,6 +417,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E5B1160BEF12C57"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d
@@ -385,6 +427,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6DB31673A2BB14D5"
 			image: "ae2:textures/particle/energy.png"
 			order: 1
 			rotation: 0.0d

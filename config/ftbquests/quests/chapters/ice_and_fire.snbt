@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "537FA59BDB35E2CD"
 			image: "irons_spellbooks:item/upgrade_orb_lightning"
 			rotation: 0.0d
 			width: 1.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1106DA70CB63A3FA"
 			image: "mowziesmobs:item/icecrystal"
 			rotation: 20.0d
 			width: 1.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "054648DABCE24893"
 			image: "iceandfire:item/armor_copper_helmet"
 			rotation: 15.0d
 			width: 1.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.0d
+			id: "71AE861256BE033E"
 			image: "minecraft:item/amethyst_shard"
 			rotation: 0.0d
 			width: 1.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6B182AC47959B027"
 			image: "irons_spellbooks:textures/particle/electricity_1.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1892447C00CCAB47"
 			image: "minecraft:block/campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.0d
+			id: "09BC946F04ECAE5E"
 			image: "minecraft:block/campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "565D5AED44314008"
 			image: "minecraft:block/campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "184CD948372786FA"
 			image: "minecraft:block/campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "517C539FF6BB9802"
 			image: "minecraft:block/campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F005DEF603DBA26"
 			image: "minecraft:block/campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "49D21636BAFEEE57"
 			image: "apotheosis:textures/items/gems/ice.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 1.0d
+			id: "218EC4F9C4AA571C"
 			image: "apotheosis:textures/items/gems/ice.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 1.0d
+			id: "50792ABA5AED74DE"
 			image: "apotheosis:textures/items/gems/ice.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D75283BF0CB70CB"
 			image: "apotheosis:textures/items/gems/ice.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2775456AB59BC728"
 			image: "irons_spellbooks:item/lightning_bottle"
 			rotation: 0.0d
 			width: 1.0d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1CED6BD375518420"
 			image: "irons_spellbooks:item/arcane_essence"
 			rotation: 0.0d
 			width: 1.0d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67D609277122B484"
 			image: "irons_spellbooks:item/blaze_spell_book"
 			rotation: 0.0d
 			width: 1.0d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6255915F8BF2AE19"
 			image: "iceandfire:item/cyclops_skull"
 			rotation: 0.0d
 			width: 1.0d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CE5DBFF2EFDE360"
 			image: "artifacts:item/antidote_vessel"
 			rotation: 0.0d
 			width: 1.0d
@@ -171,6 +191,7 @@
 		}
 		{
 			height: 1.0d
+			id: "293EA614BE17F15B"
 			image: "iceandfire:item/pixie_dust"
 			rotation: 0.0d
 			width: 1.0d
@@ -179,6 +200,7 @@
 		}
 		{
 			height: 1.0d
+			id: "573A0B223C206505"
 			image: "minecraft:textures/mob_effect/water_breathing.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0AC1AFE80196E92D"
 			image: "minecraft:block/soul_campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1856912FC6A302F2"
 			image: "minecraft:block/soul_campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -203,6 +227,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03F8A547F1219C15"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -211,6 +236,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2AB356332EC06F39"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: -90.0d
 			width: 1.0d
@@ -219,6 +245,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4066FD3A9F2AF16D"
 			image: "relics:item/cut_glass_boot"
 			rotation: 90.0d
 			width: 1.0d
@@ -227,6 +254,7 @@
 		}
 		{
 			height: 1.0d
+			id: "148A4C76A4A4F391"
 			image: "iceandfire:item/lightning_stew"
 			rotation: 0.0d
 			width: 1.0d
@@ -235,6 +263,7 @@
 		}
 		{
 			height: 1.0d
+			id: "687DA74B49BE99F5"
 			image: "iceandfire:item/summon_crystal_lightning_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -243,6 +272,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3561181658393CA2"
 			image: "minecraft:block/campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -251,6 +281,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E2E11BA8B37EDBF"
 			image: "minecraft:block/campfire_fire"
 			rotation: 180.0d
 			width: 1.0d
@@ -259,6 +290,7 @@
 		}
 		{
 			height: 1.0d
+			id: "29FA103B24730DEC"
 			image: "iceandfire:item/summon_crystal_ice_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -267,6 +299,7 @@
 		}
 		{
 			height: 1.0d
+			id: "487BE1EE717DAFEE"
 			image: "iceandfire:item/summon_crystal_ice_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -275,6 +308,7 @@
 		}
 		{
 			height: 1.0d
+			id: "09A5DF9287297482"
 			image: "iceandfire:item/lightning_dragon_heart"
 			rotation: 0.0d
 			width: 1.0d
@@ -283,6 +317,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5378E9F8D54B98F8"
 			image: "iceandfire:item/lightning_dragon_heart"
 			rotation: 0.0d
 			width: 1.0d
@@ -291,6 +326,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1BE162D03CA01D59"
 			image: "iceandfire:item/dragonbone"
 			rotation: 0.0d
 			width: 1.0d
@@ -299,6 +335,7 @@
 		}
 		{
 			height: 10.0d
+			id: "42F11943AA9DC3E2"
 			image: "kurisagawa:textures/questpics/ice_and_fire_title.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -307,6 +344,7 @@
 		}
 		{
 			height: 1.0d
+			id: "71794CAD4C4DC06B"
 			image: "kurisagawa:textures/questpics/ice_and_fire_name_title.png"
 			rotation: 0.0d
 			width: 8.0d

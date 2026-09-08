@@ -24,6 +24,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "68C7AC461FCAA685"
 			image: "kurisagawa:textures/iron_spells/spells_title.png"
 			order: 1
 			rotation: 0.0d
@@ -32,9 +33,9 @@
 			y: -3.0d
 		}
 		{
-			click: "#59E68086A8B99EA7"
+			click_action: "open_quest:59E68086A8B99EA7"
 			height: 3.0d
-			hover: ["Пиромант"]
+			id: "3C0C1773D124674A"
 			image: "kurisagawa:textures/iron_spells/spells_pyromancer.png"
 			order: 1
 			rotation: 0.0d
@@ -43,9 +44,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#555ED1E39131D91B"
+			click_action: "open_quest:555ED1E39131D91B"
 			height: 3.0d
-			hover: ["Криомант"]
+			id: "74A8224F200A1000"
 			image: "kurisagawa:textures/iron_spells/spells_cryomancer.png"
 			order: 1
 			rotation: 0.0d
@@ -54,9 +55,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#2A787B99A8B0C767"
+			click_action: "open_quest:2A787B99A8B0C767"
 			height: 3.0d
-			hover: ["Начертательный Стол"]
+			id: "1AD0ECE8E90A807F"
 			image: "kurisagawa:textures/iron_spells/spells_table.png"
 			order: 1
 			rotation: 0.0d
@@ -65,9 +66,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#3E8077AB45C79E6A"
+			click_action: "open_quest:3E8077AB45C79E6A"
 			height: 2.0d
-			hover: ["Алхимический Котёл"]
+			id: "40F52713F8AB2DEC"
 			image: "kurisagawa:textures/iron_spells/spells_cauldron.png"
 			order: 1
 			rotation: 0.0d
@@ -76,9 +77,9 @@
 			y: 8.0d
 		}
 		{
-			click: "#551A4916F032ACCF"
+			click_action: "open_quest:551A4916F032ACCF"
 			height: 2.0d
-			hover: ["Волшебная Наковальня"]
+			id: "1D494D92985AB9B0"
 			image: "kurisagawa:textures/iron_spells/spells_anvil.png"
 			order: 1
 			rotation: 0.0d
@@ -87,9 +88,9 @@
 			y: 8.0d
 		}
 		{
-			click: "#69838E3F12218D68"
+			click_action: "open_quest:69838E3F12218D68"
 			height: 2.0d
-			hover: ["Кузница Свитков"]
+			id: "6A01EF949176CF2C"
 			image: "kurisagawa:textures/iron_spells/spells_scroll.png"
 			order: 1
 			rotation: 0.0d
@@ -98,9 +99,9 @@
 			y: 8.0d
 		}
 		{
-			click: "#0436DF3308681913"
+			click_action: "open_quest:0436DF3308681913"
 			height: 4.0d
-			hover: ["Мёртвый Король"]
+			id: "78047F420C238059"
 			image: "kurisagawa:textures/iron_spells/spells_king.png"
 			order: 1
 			rotation: 0.0d
@@ -109,9 +110,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#204B969DA081056A"
+			click_action: "open_quest:204B969DA081056A"
 			height: 3.0d
-			hover: ["Некромант"]
+			id: "4C180BAE5C3EBC1D"
 			image: "kurisagawa:textures/iron_spells/spells_necromancer.png"
 			order: 1
 			rotation: 0.0d
@@ -120,9 +121,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#395A33977B18B9AD"
+			click_action: "open_quest:395A33977B18B9AD"
 			height: 3.0d
-			hover: ["Древний рыцарь"]
+			id: "24DD2C623155DF1E"
 			image: "kurisagawa:textures/iron_spells/spells_knight.png"
 			order: 1
 			rotation: 0.0d
@@ -131,9 +132,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#13F77C38AC015E9F"
+			click_action: "open_quest:13F77C38AC015E9F"
 			height: 2.5d
-			hover: ["Mountain Tower"]
+			id: "60FC64CAE15C3421"
 			image: "kurisagawa:textures/iron_spells/spells_mountaintower.png"
 			order: 1
 			rotation: 0.0d
@@ -142,9 +143,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#30B7AF815D9D7553"
+			click_action: "open_quest:30B7AF815D9D7553"
 			height: 2.5d
-			hover: ["Pyromancer Tower"]
+			id: "22D3704DBBFD5A1A"
 			image: "kurisagawa:textures/iron_spells/spells_pyromancertower.png"
 			order: 1
 			rotation: 0.0d
@@ -153,9 +154,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 2.5d
-			hover: ["Mangrove Hut"]
+			id: "5619D27004062156"
 			image: "kurisagawa:textures/iron_spells/spells_magrovehut.png"
 			order: 1
 			rotation: 0.0d
@@ -164,9 +165,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#641888DC7BC40AA9"
+			click_action: "open_quest:641888DC7BC40AA9"
 			height: 2.5d
-			hover: ["Evoker Fort"]
+			id: "3E63FD52D4DF8686"
 			image: "kurisagawa:textures/iron_spells/spells_evokerfort.png"
 			order: 1
 			rotation: 0.0d
@@ -176,6 +177,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4ACBE31177B93A16"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -185,6 +187,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6C2C41AD354DFDD1"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -194,6 +197,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4E41CF1CE6C30A1F"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -202,8 +206,9 @@
 			y: -6.0d
 		}
 		{
-			corner: true
+			corner: 1b
 			height: 5.0d
+			id: "6E0189E467EF0A68"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -213,6 +218,7 @@
 		}
 		{
 			height: 6.0d
+			id: "28E0BA594FF0FD9F"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -221,9 +227,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#4567A27C53A01903"
+			click_action: "open_quest:4567A27C53A01903"
 			height: 5.0d
-			hover: ["Эхо Тироса"]
+			id: "00FD877AE943F312"
 			image: "kurisagawa:textures/iron_spells/spells_echo.png"
 			order: 1
 			rotation: 0.0d
@@ -232,9 +238,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#6187837A51BA09DC"
+			click_action: "open_quest:6187837A51BA09DC"
 			height: 2.5d
-			hover: ["Citadel"]
+			id: "647DCCA47D6F8A59"
 			image: "kurisagawa:textures/iron_spells/spells_citadel.png"
 			order: 1
 			rotation: 0.0d
@@ -244,6 +250,7 @@
 		}
 		{
 			height: 5.0d
+			id: "29D6A6B27C6D6C50"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -252,8 +259,9 @@
 			y: -6.0d
 		}
 		{
-			corner: true
+			corner: 1b
 			height: 5.0d
+			id: "03044261F065241D"
 			image: "kurisagawa:textures/iron_spells/spells_frame.png"
 			order: 2
 			rotation: 0.0d
@@ -262,9 +270,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#373EBEB2E96D9361"
+			click_action: "open_quest:373EBEB2E96D9361"
 			height: 2.5d
-			hover: ["Spider Den"]
+			id: "50F0D34B79D9E0E6"
 			image: "kurisagawa:textures/iron_spells/spells_den.png"
 			order: 1
 			rotation: 0.0d
@@ -274,6 +282,7 @@
 		}
 		{
 			height: 1.0d
+			id: "66A6A34F08934CBD"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -283,6 +292,7 @@
 		}
 		{
 			height: 1.0d
+			id: "38F84A2862BA0CAA"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -292,6 +302,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6AD06EF028D9319B"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -301,6 +312,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1725613219A3F09F"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -310,6 +322,7 @@
 		}
 		{
 			height: 1.0d
+			id: "097AB1750D4D6CA5"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -319,6 +332,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51E59682A2978BBF"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -328,6 +342,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3B4C843B1BDDC562"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -337,6 +352,7 @@
 		}
 		{
 			height: 1.0d
+			id: "07BB0FA8FE914822"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -346,6 +362,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7F5092B6906EAE0F"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -355,6 +372,7 @@
 		}
 		{
 			height: 1.0d
+			id: "399121751EBE224B"
 			image: "irons_spellbooks:textures/particle/soul_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -364,6 +382,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2CEE48971D6F86E1"
 			image: "irons_spellbooks:textures/particle/ender_slash_2.png"
 			order: 1
 			rotation: 0.0d
@@ -373,6 +392,7 @@
 		}
 		{
 			height: 2.0d
+			id: "16C937F542707797"
 			image: "irons_spellbooks:textures/particle/flame_strike_2.png"
 			order: 1
 			rotation: 180.0d
@@ -382,6 +402,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A68793D107DCA02"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -391,6 +412,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5217D84E95121BF9"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -400,6 +422,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5AD7F71D638BDF71"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -409,6 +432,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2E2488E7915063FE"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -418,6 +442,7 @@
 		}
 		{
 			height: 1.0d
+			id: "650B9E2B8495A389"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -427,6 +452,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0147DB6C5EBAD0D5"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -436,6 +462,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2693786682692EC9"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -445,6 +472,7 @@
 		}
 		{
 			height: 1.0d
+			id: "43066A8B755A2A72"
 			image: "irons_spellbooks:textures/particle/dragon_fire_3.png"
 			order: 1
 			rotation: 0.0d
@@ -454,6 +482,7 @@
 		}
 		{
 			height: 100.0d
+			id: "3BFDE6141B026F31"
 			image: "irons_spellbooks:textures/environment/noise_tile.png"
 			rotation: 0.0d
 			width: 100.0d

@@ -14,6 +14,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "0081211659113002"
 			image: "kurisagawa:textures/relics/relics_title.png"
 			order: 1
 			rotation: 0.0d
@@ -22,9 +23,9 @@
 			y: -8.5d
 		}
 		{
-			click: "#2B08B19B35EEBCBA"
+			click_action: "open_quest:2B08B19B35EEBCBA"
 			height: 2.0d
-			hover: ["Bastion"]
+			id: "7D59D8C782EFD1F5"
 			image: "kurisagawa:textures/relics/relics_chest_bastion.png"
 			order: 1
 			rotation: 0.0d
@@ -33,9 +34,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#2B08B19B35EEBCBA"
+			click_action: "open_quest:2B08B19B35EEBCBA"
 			height: 2.0d
-			hover: ["Fortress"]
+			id: "1521CC8C173470EA"
 			image: "kurisagawa:textures/relics/relics_chest_fortress.png"
 			order: 1
 			rotation: 0.0d
@@ -44,9 +45,9 @@
 			y: 3.5d
 		}
 		{
-			click: "#2B08B19B35EEBCBA"
+			click_action: "open_quest:2B08B19B35EEBCBA"
 			height: 2.0d
-			hover: ["Ruined Portal"]
+			id: "04BD6A75DE8A6CD1"
 			image: "kurisagawa:textures/relics/relics_chest_portal.png"
 			order: 1
 			rotation: 0.0d
@@ -55,9 +56,9 @@
 			y: 6.0d
 		}
 		{
-			click: "#5D82340E9BED9C79"
+			click_action: "open_quest:5D82340E9BED9C79"
 			height: 2.0d
-			hover: ["End City"]
+			id: "78F90B90C473FBE0"
 			image: "kurisagawa:textures/relics/relics_chest_endcity.png"
 			order: 1
 			rotation: 0.0d
@@ -66,9 +67,9 @@
 			y: 6.0d
 		}
 		{
-			click: "#5D82340E9BED9C79"
+			click_action: "open_quest:5D82340E9BED9C79"
 			height: 2.0d
-			hover: ["End Ship"]
+			id: "4696F08B83C0EE03"
 			image: "kurisagawa:textures/relics/relics_chest_endship.png"
 			order: 1
 			rotation: 0.0d
@@ -77,9 +78,9 @@
 			y: 3.5d
 		}
 		{
-			click: "#730130CCF1CF5119"
+			click_action: "open_quest:730130CCF1CF5119"
 			height: 2.0d
-			hover: ["Ocean Ruin"]
+			id: "2C3799D1CFF0C2AD"
 			image: "kurisagawa:textures/relics/relics_chest_ruins.png"
 			order: 1
 			rotation: 0.0d
@@ -88,9 +89,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#730130CCF1CF5119"
+			click_action: "open_quest:730130CCF1CF5119"
 			height: 2.0d
-			hover: ["Shipwreck"]
+			id: "7BE54D96B990105E"
 			image: "kurisagawa:textures/relics/relics_chest_shipwreck.png"
 			order: 1
 			rotation: 0.0d
@@ -99,9 +100,9 @@
 			y: -3.5d
 		}
 		{
-			click: "#730130CCF1CF5119"
+			click_action: "open_quest:730130CCF1CF5119"
 			height: 2.0d
-			hover: ["Mineshaft"]
+			id: "4A3D1990519C61CA"
 			image: "kurisagawa:textures/relics/relics_chest_mine.png"
 			order: 1
 			rotation: 0.0d
@@ -110,9 +111,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#730130CCF1CF5119"
+			click_action: "open_quest:730130CCF1CF5119"
 			height: 2.0d
-			hover: ["Village"]
+			id: "3ABD9C78E246E5AB"
 			image: "kurisagawa:textures/relics/relics_chest_village.png"
 			order: 1
 			rotation: 0.0d
@@ -121,9 +122,9 @@
 			y: -3.5d
 		}
 		{
-			click: "#730130CCF1CF5119"
+			click_action: "open_quest:730130CCF1CF5119"
 			height: 2.0d
-			hover: ["Stronghold"]
+			id: "1F1A3E7E9C755F8E"
 			image: "kurisagawa:textures/relics/relics_chest_stronghold.png"
 			order: 1
 			rotation: 0.0d
@@ -133,6 +134,7 @@
 		}
 		{
 			height: 5.0d
+			id: "553DBEDAFAA40C7A"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -142,6 +144,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3F753A206E2F9A34"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 3
 			rotation: 90.0d
@@ -151,6 +154,7 @@
 		}
 		{
 			height: 5.0d
+			id: "23F7E68FA5A60EEE"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -160,6 +164,7 @@
 		}
 		{
 			height: 5.0d
+			id: "483F666CABBFF34A"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -169,6 +174,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2B08508126E1A9A3"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -178,6 +184,7 @@
 		}
 		{
 			height: 5.0d
+			id: "21C921EC5F38CE17"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -187,6 +194,7 @@
 		}
 		{
 			height: 5.0d
+			id: "78D7375BC7DD1E43"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -196,6 +204,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3B199A30B0462726"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -205,6 +214,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2FD8EFCDFBEA8905"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -214,6 +224,7 @@
 		}
 		{
 			height: 5.0d
+			id: "40DF0A083AF61748"
 			image: "kurisagawa:textures/relics/building_frame.png"
 			order: 2
 			rotation: 90.0d
@@ -223,6 +234,7 @@
 		}
 		{
 			height: 100.0d
+			id: "393F6D73B16EC6DB"
 			image: "relics:textures/gui/description/ability/small_card_lock_background.png"
 			rotation: 0.0d
 			width: 100.0d
@@ -231,6 +243,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6B1ABFC08C7F21DC"
 			image: "kurisagawa:textures/questpics/overworld_title.png"
 			order: 4
 			rotation: 0.0d
@@ -240,6 +253,7 @@
 		}
 		{
 			height: 1.0d
+			id: "02FCC18C8FCD8704"
 			image: "kurisagawa:textures/questpics/the_nether_title.png"
 			order: 4
 			rotation: 0.0d
@@ -249,6 +263,7 @@
 		}
 		{
 			height: 1.0d
+			id: "08925048251376FA"
 			image: "kurisagawa:textures/questpics/the_end_title.png"
 			order: 4
 			rotation: 0.0d

@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "61567E15872A9009"
 			image: "minecraft:block/cherry_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0A3416B1654FA134"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B59447A5B90FD1F"
 			image: "minecraft:block/cherry_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E92FB3F05FED102"
 			image: "minecraft:block/cherry_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -44,6 +48,7 @@
 		}
 		{
 			height: 1.0d
+			id: "28761B73F68C8B15"
 			image: "minecraft:block/cherry_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -52,6 +57,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5AF8CC69F86D36D5"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0A895B37A1F15D64"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -70,6 +77,7 @@
 		}
 		{
 			height: 1.0d
+			id: "065383E5FB35FB4C"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -79,6 +87,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32AF46A368C6A75F"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 1.0d
+			id: "328626ED0C98478F"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -97,6 +107,7 @@
 		}
 		{
 			height: 1.0d
+			id: "350C033287367D5B"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -106,6 +117,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1802B2A435EA2127"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -115,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "100D3B2F376C8F14"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "62394916CF35644B"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -133,6 +147,7 @@
 		}
 		{
 			height: 1.0d
+			id: "27790DB4EA7CF32E"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -142,6 +157,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D65BECC5B9581FD"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -151,6 +167,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06A5159250DB7B61"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -160,6 +177,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67AEF7A50FE94AA0"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -169,6 +187,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4CFD73B6220DEA64"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -178,6 +197,7 @@
 		}
 		{
 			height: 1.0d
+			id: "15478AA49E0E99AC"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -187,6 +207,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3C9C8237DC89276C"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -196,6 +217,7 @@
 		}
 		{
 			height: 1.0d
+			id: "01BA562CCDA9163E"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -205,6 +227,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5D321D739A5FE45F"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -214,6 +237,7 @@
 		}
 		{
 			height: 1.0d
+			id: "703724644AA89600"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -223,6 +247,7 @@
 		}
 		{
 			height: 1.0d
+			id: "022DE6B0E42747B7"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -232,6 +257,7 @@
 		}
 		{
 			height: 1.0d
+			id: "600F18E8629DA36A"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -241,6 +267,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E3EFD483901A01A"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -250,6 +277,7 @@
 		}
 		{
 			height: 1.0d
+			id: "762B9EE3195BF699"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -259,6 +287,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7EE69A1FCC85993F"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -268,6 +297,7 @@
 		}
 		{
 			height: 1.0d
+			id: "767561CFC2B7D917"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -277,6 +307,7 @@
 		}
 		{
 			height: 1.0d
+			id: "15A002E08058942C"
 			image: "minecraft:block/cherry_leaves"
 			order: 1
 			rotation: 0.0d
@@ -286,6 +317,7 @@
 		}
 		{
 			height: 1.0d
+			id: "39E57DDE51188C96"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -294,6 +326,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4809502FA14AD322"
 			image: "minecraft:block/cherry_sapling"
 			rotation: 0.0d
 			width: 1.0d
@@ -302,6 +335,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E25EFBC16847ED1"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -310,6 +344,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4FEE39B597B4817F"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -318,6 +353,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2544343E5D48CCC4"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -326,6 +362,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4771213FA2134E2F"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -334,6 +371,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2917127F1F0A7566"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -342,6 +380,7 @@
 		}
 		{
 			height: 1.0d
+			id: "720EB1F1C90FCD8E"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -350,6 +389,7 @@
 		}
 		{
 			height: 1.0d
+			id: "269D7F883D0C5229"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -358,6 +398,7 @@
 		}
 		{
 			height: 1.0d
+			id: "70BA03B3223E6649"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -366,6 +407,7 @@
 		}
 		{
 			height: 1.0d
+			id: "350B10225E2A5B0D"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -374,6 +416,7 @@
 		}
 		{
 			height: 1.0d
+			id: "396044BC71457AEB"
 			image: "minecraft:block/grass_block_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -382,6 +425,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3BE8C7E0771EB821"
 			image: "minecraft:block/cherry_sapling"
 			rotation: 0.0d
 			width: 1.0d
@@ -390,6 +434,7 @@
 		}
 		{
 			height: 2.0d
+			id: "48A7E1F0BC8FF2B5"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 0.0d
 			width: 2.0d
@@ -398,6 +443,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2C989B90403C030E"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 90.0d
 			width: 2.0d
@@ -406,6 +452,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1C13B9DA2516E45E"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: -90.0d
 			width: 2.0d
@@ -414,6 +461,7 @@
 		}
 		{
 			height: 2.0d
+			id: "718559A97BCCC098"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 180.0d
 			width: 2.0d
@@ -422,6 +470,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7ABBEC838EA81D6E"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 45.0d
 			width: 2.0d
@@ -430,6 +479,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7A4E0D1A8CD08447"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: -45.0d
 			width: 2.0d
@@ -438,6 +488,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1192F87AC0988810"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 135.0d
 			width: 2.0d
@@ -446,6 +497,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2ECDCBDFB01FD4EA"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: -135.0d
 			width: 2.0d
@@ -454,6 +506,7 @@
 		}
 		{
 			height: 2.0d
+			id: "334091C422DCA89A"
 			image: "minecraft:item/fire_charge"
 			order: 1
 			rotation: 0.0d
@@ -463,6 +516,7 @@
 		}
 		{
 			height: 2.0d
+			id: "352CD50AF0C86856"
 			image: "kurisagawa:textures/questpics/kurisagawa_title.png"
 			rotation: 0.0d
 			width: 6.0d

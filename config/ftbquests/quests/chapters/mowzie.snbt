@@ -7,6 +7,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "6A774029F3BF5E43"
 			image: "iceandfire:item/armor_silver_metal_chestplate"
 			rotation: -20.0d
 			width: 1.0d
@@ -15,6 +16,7 @@
 		}
 		{
 			height: 1.0d
+			id: "14B075762E5DD3C9"
 			image: "minecraft:item/iron_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -23,6 +25,7 @@
 		}
 		{
 			height: 1.0d
+			id: "11D85091D5075968"
 			image: "mowziesmobs:item/sculptor_staff_icon"
 			rotation: 0.0d
 			width: 1.0d
@@ -31,6 +34,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5BE3A866B405A528"
 			image: "mowziesmobs:item/sculptor_staff_icon"
 			rotation: -90.0d
 			width: 1.0d
@@ -39,6 +43,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3EED1EDDFA590B95"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -47,6 +52,7 @@
 		}
 		{
 			height: 1.0d
+			id: "464936A70D07C70E"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: 180.0d
 			width: 1.0d
@@ -55,6 +61,7 @@
 		}
 		{
 			height: 1.0d
+			id: "396BE5B50574A04E"
 			image: "mowziesmobs:textures/mob_effect/sunblock.png"
 			rotation: 50.0d
 			width: 1.0d
@@ -63,6 +70,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2F3F423617DA7AD2"
 			image: "iceandfire:item/ice_dragon_heart"
 			rotation: 0.0d
 			width: 1.0d
@@ -71,6 +79,7 @@
 		}
 		{
 			height: 1.0d
+			id: "45DD9852276D061D"
 			image: "iceandfire:item/dragonsteel_ice_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -79,6 +88,7 @@
 		}
 		{
 			height: 1.0d
+			id: "010F338A62F00BDD"
 			image: "alexsmobs:textures/entity/sunbird_shine.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -87,6 +97,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B604C8DADDBA336"
 			image: "supplementaries:item/globes/globe_sun"
 			rotation: 40.0d
 			width: 1.0d
@@ -95,6 +106,7 @@
 		}
 		{
 			height: 1.0d
+			id: "72AAE91E6620FAEE"
 			image: "mowziesmobs:item/grant_suns_blessing"
 			rotation: 0.0d
 			width: 1.0d
@@ -103,6 +115,7 @@
 		}
 		{
 			height: 1.0d
+			id: "33D111031DB6D29D"
 			image: "mowziesmobs:item/grant_suns_blessing"
 			rotation: 180.0d
 			width: 1.0d
@@ -111,6 +124,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7A325B2F1D8D9702"
 			image: "mowziesmobs:textures/particle/sun.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -119,6 +133,7 @@
 		}
 		{
 			height: 1.5d
+			id: "14B56338672B6B4D"
 			image: "mowziesmobs:textures/particle/sun.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -127,6 +142,7 @@
 		}
 		{
 			height: 1.5d
+			id: "49DDCEFCE488B94E"
 			image: "mowziesmobs:textures/particle/sun.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -135,6 +151,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1AE23F48E3EE6CE2"
 			image: "minecraft:item/paper"
 			rotation: 0.0d
 			width: 1.0d
@@ -143,6 +160,7 @@
 		}
 		{
 			height: 1.0d
+			id: "277FD52447978181"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -151,6 +169,7 @@
 		}
 		{
 			height: 1.0d
+			id: "693D3A981D85FE79"
 			image: "alexscaves:block/primal_magma_top"
 			rotation: -90.0d
 			width: 1.0d
@@ -159,6 +178,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1E7E26605BD058DE"
 			image: "cataclysm:item/koboleton_bone"
 			rotation: 0.0d
 			width: 1.0d
@@ -167,6 +187,7 @@
 		}
 		{
 			height: 1.0d
+			id: "151BE9485DF3FF00"
 			image: "cataclysm:item/witherite_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -175,6 +196,7 @@
 		}
 		{
 			height: 1.0d
+			id: "04A492AAD33F8FA7"
 			image: "cataclysm:item/witherite_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -183,6 +205,7 @@
 		}
 		{
 			height: 1.0d
+			id: "323363AE84EE95E3"
 			image: "cataclysm:block/chiseled_obsidian_bricks"
 			rotation: 0.0d
 			width: 1.0d
@@ -191,6 +214,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D1490A4600BFB8D"
 			image: "irons_spellbooks:item/cinder_essence"
 			rotation: -40.0d
 			width: 1.0d
@@ -199,6 +223,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5AC6FB6B6F28288F"
 			image: "cataclysm:textures/particle/em_pulse.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -207,6 +232,7 @@
 		}
 		{
 			height: 1.0d
+			id: "24719B91F3829767"
 			image: "cataclysm:item/enderite_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -215,6 +241,7 @@
 		}
 		{
 			height: 1.5d
+			id: "76835DBF659D8C0F"
 			image: "cataclysm:textures/entity/flame_strike_sigil.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -223,6 +250,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74991256A2F015E2"
 			image: "cataclysm:item/bone_reptile_helmet"
 			rotation: 0.0d
 			width: 1.0d
@@ -231,6 +259,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74889C62F26279B3"
 			image: "cataclysm:item/bone_reptile_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -239,6 +268,7 @@
 		}
 		{
 			height: 1.0d
+			id: "59581A8B83F468EC"
 			image: "cataclysm:item/ancient_metal_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -247,6 +277,7 @@
 		}
 		{
 			height: 1.0d
+			id: "47E59BCCC3E05B9F"
 			image: "minecraft:item/brush"
 			rotation: 0.0d
 			width: 1.0d
@@ -255,6 +286,7 @@
 		}
 		{
 			height: 1.0d
+			id: "61DDB1ECC65FB73B"
 			image: "cataclysm:item/ancient_metal_nugget"
 			rotation: 0.0d
 			width: 1.0d
@@ -263,6 +295,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2058E2D966ACCD9A"
 			image: "cataclysm:textures/mob_effect/curse_of_desert.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -271,6 +304,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3BEC334D30767314"
 			image: "cataclysm:textures/mob_effect/ghost_form.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -279,6 +313,7 @@
 		}
 		{
 			height: 1.5d
+			id: "255F9DF12C12AD40"
 			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -287,6 +322,7 @@
 		}
 		{
 			height: 1.0d
+			id: "155EC7C8727D91AA"
 			image: "cataclysm:item/black_steel_nugget"
 			rotation: 0.0d
 			width: 1.0d
@@ -295,6 +331,7 @@
 		}
 		{
 			height: 1.0d
+			id: "536E24FC02D57BEF"
 			image: "cataclysm:item/black_steel_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -303,6 +340,7 @@
 		}
 		{
 			height: 1.0d
+			id: "21819F0F708165F3"
 			image: "cataclysm:item/cursium_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -311,6 +349,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2A72307CC7578F0C"
 			image: "cataclysm:item/cursium_helmet"
 			rotation: 0.0d
 			width: 1.0d
@@ -319,6 +358,7 @@
 		}
 		{
 			height: 1.0d
+			id: "71195A728B95DF6A"
 			image: "cataclysm:item/cursium_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -327,6 +367,7 @@
 		}
 		{
 			height: 1.0d
+			id: "535EEEABC5355A6B"
 			image: "cataclysm:item/cursium_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.0d
@@ -335,6 +376,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4A0F590DA410A54E"
 			image: "cataclysm:item/cursed_tombstone"
 			rotation: 0.0d
 			width: 1.0d
@@ -343,6 +385,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4393E41E52B1524D"
 			image: "cataclysm:textures/particle/phantom_wing_flame_3.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -351,6 +394,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6FAA1BFC76DAF86B"
 			image: "cataclysm:textures/particle/phantom_wing_flame_4.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -359,6 +403,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1BF3E41CF92B70B8"
 			image: "cataclysm:textures/particle/phantom_wing_flame_5.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -367,6 +412,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5ED3A4F3E96674DF"
 			image: "cataclysm:textures/particle/phantom_wing_flame_2.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -375,6 +421,7 @@
 		}
 		{
 			height: 1.0d
+			id: "772ABD5F4EFE44F7"
 			image: "kurisagawa:textures/questpics/mowzie_title.png"
 			rotation: 0.0d
 			width: 5.0d

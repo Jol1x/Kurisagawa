@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "52B314A3D9CE843C"
 			image: "kurisagawa:textures/questpics/furnace_title.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "07B3799FC869E228"
 			image: "kurisagawa:textures/questpics/chest_title.png"
 			rotation: 0.0d
 			width: 4.0d

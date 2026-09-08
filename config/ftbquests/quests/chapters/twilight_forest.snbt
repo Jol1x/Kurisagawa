@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "165D585789DC5F2E"
 			image: "kurisagawa:textures/questpics/twilight_portal.png"
 			order: 1
 			rotation: 0.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 5.0d
+			id: "39F0953F790DC781"
 			image: "kurisagawa:textures/questpics/twilight_forest_title.png"
 			order: 1
 			rotation: 0.0d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 100.0d
+			id: "7B8ABFE9B068889A"
 			image: "twilightforest:block/fiery_block"
 			rotation: 0.0d
 			width: 100.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51419C05512ECAF0"
 			image: "twilightforest:block/firefly"
 			order: 1
 			rotation: 0.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CA3009F0ABB124C"
 			image: "twilightforest:block/uberous_soil_glow"
 			order: 1
 			rotation: 0.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E9F4BF679EE177B"
 			image: "twilightforest:textures/particle/dim_flame.png"
 			order: 1
 			rotation: 0.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69E11379C2DE5EED"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D4E33C214AE0719"
 			image: "twilightforest:block/firefly"
 			order: 1
 			rotation: 0.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5BCF28CCBB3DD1EE"
 			image: "twilightforest:block/firefly"
 			order: 1
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2F496B694FC0216B"
 			image: "twilightforest:block/firefly"
 			order: 1
 			rotation: 0.0d
@@ -100,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "565EF3B3B9D8CCEE"
 			image: "twilightforest:block/firefly"
 			order: 1
 			rotation: 0.0d
@@ -109,6 +120,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2C5A329F356D5933"
 			image: "twilightforest:block/uberous_soil_glow"
 			order: 1
 			rotation: 0.0d
@@ -118,6 +130,7 @@
 		}
 		{
 			height: 1.0d
+			id: "41BA107E87212E73"
 			image: "twilightforest:block/uberous_soil_glow"
 			order: 1
 			rotation: 0.0d
@@ -127,6 +140,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D7612CE60903992"
 			image: "twilightforest:block/uberous_soil_glow"
 			order: 1
 			rotation: 0.0d
@@ -136,6 +150,7 @@
 		}
 		{
 			height: 1.0d
+			id: "77135483A4754B20"
 			image: "twilightforest:block/uberous_soil_glow"
 			order: 1
 			rotation: 0.0d
@@ -145,6 +160,7 @@
 		}
 		{
 			height: 1.0d
+			id: "374F8DF1193C6835"
 			image: "twilightforest:textures/particle/dim_flame.png"
 			order: 1
 			rotation: 0.0d
@@ -154,6 +170,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1DB105BC3EF16A73"
 			image: "twilightforest:textures/particle/dim_flame.png"
 			order: 1
 			rotation: 0.0d
@@ -163,6 +180,7 @@
 		}
 		{
 			height: 1.0d
+			id: "485D39BB2000B2B7"
 			image: "twilightforest:textures/particle/dim_flame.png"
 			order: 1
 			rotation: 0.0d
@@ -172,6 +190,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06941C4053E7AD01"
 			image: "twilightforest:textures/particle/dim_flame.png"
 			order: 1
 			rotation: 0.0d
@@ -181,6 +200,7 @@
 		}
 		{
 			height: 1.0d
+			id: "555C3A5B7993C224"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -190,6 +210,7 @@
 		}
 		{
 			height: 1.0d
+			id: "50C7FF6ED9E4FE60"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -199,6 +220,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1451E3765EB6904B"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -208,6 +230,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03C04D6540203622"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -217,6 +240,7 @@
 		}
 		{
 			height: 1.0d
+			id: "60D0291A08503264"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -226,6 +250,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6740A496518D2405"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -235,6 +260,7 @@
 		}
 		{
 			height: 1.0d
+			id: "601FDEDC2AC9B0C3"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -244,6 +270,7 @@
 		}
 		{
 			height: 1.0d
+			id: "63AD5E2B894D9FBC"
 			image: "twilightforest:block/tower_device_level_1/towerdev_firejet_1"
 			order: 1
 			rotation: 0.0d
@@ -253,6 +280,7 @@
 		}
 		{
 			height: 2.7d
+			id: "2A70494DAC4020B8"
 			image: "relics:textures/hud/abilities/card_frame_active.png"
 			order: 2
 			rotation: 0.0d
