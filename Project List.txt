@@ -156,6 +156,7 @@ Mod List:
 [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 [Ok Zoomer - It's Zoom!](https://modrinth.com/mod/ok-zoomer)
 [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
+[Patchouli](https://modrinth.com/mod/patchouli)
 [Pipez](https://modrinth.com/mod/pipez)
 [Placebo](https://modrinth.com/mod/placebo)
 [Player Animation Library](https://modrinth.com/mod/player-animation-library)
