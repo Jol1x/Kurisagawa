@@ -11,7 +11,7 @@
 > **Ссылка на Google Disk:**  
 > [Kurisagawa v1.0.0](https://drive.google.com/file/d/1eeBNnoaCZQwsYWbyiXMnpo26hmbZoqrK/view?usp=sharing)
 >
-> *Инструкция по установке находится внутри архива.*
+> *Инструкция по установке - README.txt, находится внутри архива.*
 
 ---
 
